@@ -5,7 +5,7 @@ parts:
       content:
         id: header
         title: The future of education
-        subtitle: I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.
+        subtitle: I showed my learning to the grown-ups, and asked them whether the drawing frightened them.
         buttons:
             - text: Free Download 
               filled: false
