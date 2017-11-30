@@ -3,7 +3,7 @@ parts:
   - type: header
     content:
       id: header
-      title: Tomorrow's education. Today.
+      title: What if learning came from the future?
       subtitle: >-
         I showed my learning to the grown-ups, and asked them whether the
         drawing frightened them.
