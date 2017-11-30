@@ -29,9 +29,15 @@
         <!-- Newsletter -->
         <div class="row mt-4">
             <div class="col text-center">
-                <p>{{signupText}}</p>
+                <p>{{content.signupText}}</p>
                 <form>
                     <div class="form-row justify-content-center">
+                        <div class="col-md-4">
+                            <label class="sr-only" for="inlineFormInput">
+                                {{content.namePlaceholder}}
+                            </label>
+                            <input type="text" class="form-control form-control-lg mb-2 mb-md-0" id="inlineFormInput" placeholder="{{content.namePlaceholder}}">
+                        </div>
                         <div class="col-md-4">
                             <label class="sr-only" for="inlineFormInput">
                                 {{content.emailPlaceholder}}

@@ -118,6 +118,7 @@ parts:
         - icon: instagrem
           link: '#third'
       signupText: Subscribe to our newsletter to receive exclusive content.
+      namePlaceholder: Name
       emailPlaceholder: E-mail
       button:
         text: Sign up!
@@ -131,4 +132,3 @@ parts:
           link: '#third'
       legalFooter: Copyright © 2017 Story. All Rights Reserved.
 ---
-
