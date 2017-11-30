@@ -1,7 +1,7 @@
 ---
 parts:
-
-    - header:
+    - type: header
+      content:
         id: header
         title: The future of education
         subtitle: I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.
@@ -25,7 +25,8 @@ parts:
                 text: Register
                 link: "#register"
 
-    - features:
+    - type: features
+      content:
         id: features
         header: Feature Minilist
         subtitle: Aren't we great at doing things!
@@ -51,7 +52,8 @@ parts:
                   header: Unlimited Archive
                   text: so I lived my life alone...
 
-    - section: 
+    - type: section
+      content:
         id: first
         header: First Header
         filled: false
@@ -69,7 +71,8 @@ parts:
               icon: map
               text: My friend smiled gently and indulgently
 
-    - section: 
+    - type: section
+      content:
         id: second
         header: Second Header
         filled: true
@@ -84,7 +87,8 @@ parts:
             link: "#register"
             filled: true
 
-    - section: 
+    - type: section
+      content:
         id: third
         header: Third Header
         text: 
@@ -95,7 +99,8 @@ parts:
             link: "#register"
             filled: true
 
-    - section: 
+    - type: section
+      content:
         id: fourth
         header: May the Fourth Header
         filled: true
@@ -103,7 +108,8 @@ parts:
             - When a mystery is too great, one dare not disobey. Absurd as it might seem to me, a thousand miles from any human habitation and in danger of death, I took out of my pocket a sheet of paper and my fountain-pen.
             - We can spill over onto multiple paragraphs too.
 
-    - section_landscape: 
+    - type: section_landscape
+      content:
         id: fifth
         header: Landscape Header
         filled: false
@@ -125,7 +131,8 @@ parts:
               icon: map
               text: My friend smiled gently and indulgently
 
-    - section_landscape: 
+    - type: section_landscape
+      content:
         id: final
         header: Filled Landscape Header
         filled: true
@@ -149,7 +156,8 @@ parts:
 
 
 
-    - secondary_features: 
+    - type: secondary_features
+      content:
         id: secondary
         icon: megaphone
         header: Entypo Icon Font Bundled
@@ -165,7 +173,8 @@ parts:
               header: 24/7 Call-center
               text: In certain more important details I shall make mistakes, also.
 
-    - metrics:
+    - type: metrics
+      content:
         id: metrics
         header: We have worked so hard to make it easy.
         content: true
@@ -179,7 +188,8 @@ parts:
             - number: 0
               caption: Bugs
 
-    - gallery:
+    - type: gallery
+      content:
         id: gallery
         images:
             - header: Beautiful pictures
@@ -193,7 +203,8 @@ parts:
               image: /img/gallery-03.jpg
               hoverText: Third Slide
 
-    - app:
+    - type: app
+      content:
         id: app
         logo: /img/logo-themed-2.svg
         header: Story App
@@ -207,7 +218,8 @@ parts:
               link: "#"
               icon: /img/badge-google-play.png
 
-    - footer:
+    - type: footer
+      content:
         id: register
         header: Stay up-to-date
         social:
