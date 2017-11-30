@@ -5,11 +5,21 @@ fields:
   label: Parts
   type: field_group_list
   fields:
-  - name: type
+  - type: select
+    name: type
+    config:
+      source:
+        type: simple
+      options:
+      - header
+      - footer
+      - section
+      - section_landscape
+      - features
+      - secondary_features
+      - gallery
+      - app
     label: Type
-    type: text
-    hidden: false
-    default: ''
   - name: content
     label: Content
     type: field_group
