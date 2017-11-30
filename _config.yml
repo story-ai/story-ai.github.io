@@ -1,7 +1,16 @@
-permalink: pretty
+---
+title: Story Ai.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+- scope:
+    path: ''
+  values:
+    layout: default
+permalink: pretty
