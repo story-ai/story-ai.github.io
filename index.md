@@ -12,7 +12,7 @@ parts:
           filled: false
         - text: Learn More
           filled: true
-      image: /img/app-screen-02.png
+      image: /img/hat.jpg
       backgroundImage: /img/bg-01.png
       logo: /img/logo.svg
       nav:
