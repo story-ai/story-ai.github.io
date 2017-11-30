@@ -100,7 +100,7 @@ parts:
             link: "#register"
             filled: true
 
-    - type: foooter
+    - type: footer
       content:
         id: register
         header: Stay up-to-date
