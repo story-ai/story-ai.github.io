@@ -1,7 +1,8 @@
 ---
 parts:
 
-    - header:
+    - type: header
+      content:
         id: header
         title: The future of education
         subtitle: I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.
@@ -25,7 +26,8 @@ parts:
                 text: Register
                 link: "#register"
 
-    - features:
+    - type: features
+      content:
         id: features
         header: Feature Minilist
         subtitle: Aren't we great at doing things!
@@ -51,7 +53,8 @@ parts:
                   header: Unlimited Archive
                   text: so I lived my life alone...
 
-    - section: 
+    - type: section
+      content:
         id: first
         header: First Header
         filled: false
@@ -69,7 +72,8 @@ parts:
               icon: map
               text: My friend smiled gently and indulgently
 
-    - section: 
+    - type: section
+      content:
         id: second
         header: Second Header
         filled: true
@@ -84,7 +88,8 @@ parts:
             link: "#register"
             filled: true
 
-    - section: 
+    - type: section
+      content:
         id: third
         header: Third Header
         text: 
@@ -95,7 +100,8 @@ parts:
             link: "#register"
             filled: true
 
-    - footer:
+    - type: footer
+      content:
         id: register
         header: Stay up-to-date
         social:

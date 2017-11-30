@@ -6,25 +6,24 @@
 <body>
 
     {% for part in page.parts %}
-
-        {% if part.features %}
-            {% include features.html content=part.features %} 
-        {% elsif part.metrics %}
-            {% include metrics.html content=part.metrics %} 
-        {% elsif part.secondary_features %}
-            {% include secondary_features.html content=part.secondary_features %} 
-        {% elsif part.gallery %}
-            {% include gallery.html content=part.gallery %} 
-        {% elsif part.app %}
-            {% include app.html content=part.app %} 
-        {% elsif part.footer %}
-            {% include footer.html content=part.footer %} 
-        {% elsif part.header %}
-            {% include header.html content=part.header %} 
-        {% elsif part.section_landscape %}
-            {% include section_landscape.html content=part.section_landscape %} 
-        {% elsif part.section %}
-            {% include section.html content=part.section %} 
+        {% if part.type == "features" %}
+            {% include features.html content=part.content %} 
+        {% elsif part.type == "metrics" %}
+            {% include metrics.html content=part.content %} 
+        {% elsif part.type == "secondary_features" %}
+            {% include secondary_features.html content=part.content %} 
+        {% elsif part.type == "gallery" %}
+            {% include gallery.html content=part.content %} 
+        {% elsif part.type == "app" %}
+            {% include app.html content=part.content %} 
+        {% elsif part.type == "footer" %}
+            {% include footer.html content=part.content %} 
+        {% elsif part.type == "header" %}
+            {% include header.html content=part.content %} 
+        {% elsif part.type == "section_landscape" %}
+            {% include section_landscape.html content=part.content %} 
+        {% elsif part.type == "section" %}
+            {% include section.html content=part.content %} 
         {% endif %}
 
     {% endfor %} 
