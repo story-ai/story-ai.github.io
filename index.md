@@ -4,7 +4,7 @@ parts:
     - type: header
       content:
         id: header
-        title: The future of education
+        title: The tomorrow of education
         subtitle: I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.
         buttons:
             - text: Free Download 
