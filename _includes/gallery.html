@@ -1,0 +1,39 @@
+{% assign content = include.content %}
+<!-- Gallery -->
+<div class="block block-gallery" id="{{content.id}}">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div id="carouselExampleIndicators" class="carousel slide shadow-1" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        {% for image in content.images %}
+                        <li data-target="#carouselExampleIndicators" data-slide-to="{{forloop.index0}}" class="{% if forloop.first %}active{%endif%}"></li>
+                        {% endfor %}
+                    </ol>
+                    <div class="carousel-inner">
+                        {% for image in content.images %}
+                        <div class="carousel-item {% if forloop.first %} active{% endif %}">
+                            <div class="carousel-caption d-none d-md-block">
+                                {% if image.header %}
+                                <h3>{{image.header}}</h3>{% endif %} {% if image.text %}
+                                <p>{{image.text}}</p>{% endif %}
+                            </div>
+                            <img class="d-block w-100" src="{{image.image}}" alt="{{image.hoverText}}">
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <!-- Prev/Next buttons don't work in the template either, so I'm omitting them for now -->
+                    <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / Gallery -->

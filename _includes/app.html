@@ -1,0 +1,27 @@
+{% assign content = include.content %}
+
+<!-- Download and Reviews -->
+<div class="block block-download" id="{{content.id}}">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <img src="{{content.logo}}" width="160" height="160" alt="Logo">
+                <h2 class="my-3">{{content.header}}</h2>
+                <div class="content-reviews">
+                    {% for i in (1..content.stars) %}
+                    <span class="icon-star"></span>
+                    {% endfor %}
+                    <span class="content-reviews-total">({{content.reviewCount}})</span>
+                </div>
+                <div class="mt-4">
+                    {% for badge in content.badges %}
+                    <a href="{{badge.link}}">
+                        <img src="{{badge.icon}}" alt="{{hoverText}}" height="50">
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / Download and Reviews -->

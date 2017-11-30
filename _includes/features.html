@@ -1,0 +1,30 @@
+{% assign content = include.content %}
+
+<div class="block block-features" id="{{content.id}}">
+    <div class="container">
+        <!-- Main Features Header -->
+        <div class="row justify-content-center">
+            <div class="col-md-8 content-subheader">
+                <h2>{{content.header}}</h2>
+                <p>{{content.subtitle}}</p>
+            </div>
+        </div>
+        <!-- / Main Features Header -->
+
+        <!-- Features  -->
+        {% for row in content.content %}
+            <div class="row pt-5">
+                {% for feature in row %}
+                <div class="col-md content-feature">
+                    <p class="mb-0">
+                        <span class="icon-themed icon-lg icon-{{feature.icon}}"></span>
+                    </p>
+                    <h3>{{feature.header}}</h3>
+                    <p>{{feature.text}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+        <!-- / Features  -->
+    </div>
+</div>

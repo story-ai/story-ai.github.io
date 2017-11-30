@@ -1,0 +1,33 @@
+{% assign content = include.content %}
+
+<!-- Secondary features -->
+<div class="block block-secondary-features" id="{{content.id}}">
+    <div class="container">
+        <!--Subheader -->
+        <div class="row justify-content-center">
+            <div class="col-md-8 content-subheader">
+                <p>
+                    <span class="icon-themed icon-lg icon-{{content.icon}}"></span>
+                </p>
+                <h2>{{content.header}}</h2>
+                <p>{{content.text}}</p>
+            </div>
+        </div>
+        <!-- / Subheader -->
+
+        <div class="row mt-5">
+            {% for feature in content.features %}
+            <div class="col-md text-center text-md-left content-feature-sub mb-5 mb-md-0">
+                <p>
+                    <span class="icon-themed icon-sm icon-{{feature.icon}}"></span>
+                </p>
+                <h3>{{feature.header}}</h3>
+                <p>
+                    {{feature.text}}
+                </p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<!-- / Secondary features -->

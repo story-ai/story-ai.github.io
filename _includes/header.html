@@ -1,0 +1,74 @@
+{% assign content = include.content %}
+
+<!-- Topbar (appears when offset scroll > 500px) -->
+<!-- <div class="topbar">
+    <div class="topbar-bg">
+        <a href="#home">
+            <img class="topbar-logo" src="img/logo-themed-2.svg" alt="Logo">
+        </a>
+    </div>
+</div> -->
+<!-- / Topbar -->
+
+<!-- Nav & Hero -->
+<div class="main-hero" id="{{include.id}}">
+    <div class="main-hero-bg" style="background-image: url({{content.backgroundImage}})">
+        <div class="container">
+            <!-- Nav -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-transparent">
+                <a class="navbar-brand" href="#">
+                    <img src="{{content.logo}}" width="60" height="60" alt="Logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto mr-4">
+                        {% for item in content.nav.items %}
+                        <li class="nav-item active">
+                            <a class="nav-link" href="{{item.link}}">
+                                {{ item.text }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+
+                    <a href="{{content.nav.cta.link}}" class="btn btn-outline-light my-2 my-sm-0">
+                        {{ content.nav.cta.text}}
+                    </a>
+                </div>
+            </nav>
+            <!-- / Nav -->
+
+            <!-- Hero -->
+            <div class="row align-items-center py-5">
+                <div class="col-md-6 text-center text-md-left">
+                    <h1 class="mb-4">{{content.title}}</h1>
+                    <p>{{content.subtitle}}</p>
+                    <div class="row mt-5">
+                        {% for button in content.buttons %}
+                        <div class="col-md-auto">
+                            <a href="#download" class="btn btn-lg
+                                {% if button.filled %}
+                                btn-outline-light
+                                {% else %}
+                                btn-light
+                                {% endif %}
+                                ">
+                                {{button.text}}
+                            </a>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="col-md-6 text-center mt-4 mt-md-0">
+                    <img src="{{content.image}}" class="img-fluid rounded shadow-1">
+                </div>
+            </div>
+            <!-- / Hero -->
+        </div>
+    </div>
+</div>
+<!-- / Nav & Hero -->

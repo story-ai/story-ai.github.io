@@ -1,0 +1,20 @@
+{% assign content = include.content %}
+
+<div class="block block-metrics" id="metrics">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2>{{content.header}}</h2>
+            </div>
+        </div>
+        <div class="row mt-5">
+            {% for box in content.metrics %}
+                <div class="col mb-5 mb-md-0">
+                    <div class="metric metric-{% cycle "1", "2", "3", "4" %}">
+                        <span>{{box.number}}</span> {{box.caption}}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

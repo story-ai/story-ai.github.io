@@ -1,0 +1,90 @@
+{% assign content = include.content %}
+
+<!-- Footer themed -->
+<div class="block block-footer block-footer-themed" id="{{content.id}}">
+    <div class="container">
+        <!--Subheader -->
+        <div class="row justify-content-center">
+            <div class="col-md-8 content-subheader">
+                <h2>{{content.header}}</h2>
+            </div>
+        </div>
+        <!-- / Subheader -->
+
+        <!-- Social media links -->
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-3 text-center">
+                <div class="footer-social-media d-flex justify-content-around">
+
+                    {% for nav in content.social %}
+                        <a href="{{nav.link}}" class="link-icon">
+                            <span class="icon-md icon-light icon-{{nav.icon}}"></span>
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <!-- / Social media links -->
+
+        <!-- Newsletter -->
+        <div class="row mt-4">
+            <div class="col text-center">
+                <p>{{signupText}}</p>
+                <form>
+                    <div class="form-row justify-content-center">
+                        <div class="col-md-4">
+                            <label class="sr-only" for="inlineFormInput">
+                                {{content.emailPlaceholder}}
+                            </label>
+                            <input type="text" class="form-control form-control-lg mb-2 mb-md-0" id="inlineFormInput" placeholder="{{content.emailPlaceholder}}">
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-lg 
+                                {% if content.button.filled %}
+                                    btn-light
+                                {% else %}
+                                    btn-outline-light
+                                {% endif %}
+                            ">
+                                {{content.button.text}}
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- / Newsletter -->
+
+        <!-- Links -->
+        <div class="row justify-content-center">
+            <div class="col-md-8 content-footer-bottom-links">
+                <ul class="nav justify-content-center">
+                    {% for nav in content.nav %}
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="
+                                {{nav.link}}
+                                ">
+                                {{nav.text}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <!-- / Links -->
+
+        <!-- Legals -->
+        <div class="row">
+            <div class="col content-footer-legals">
+                {{content.legalFooter}}
+            </div>
+        </div>
+        <!-- / Legals -->
+    </div>
+</div>
+<!-- / Footer themed -->
+
+<!-- Required JavaScript -->
+<script src="/js/jquery-3.2.1.slim.min.js"></script>
+<script src="/js/popper.min.js"></script>
+<script src="/js/bundle.js"></script>
