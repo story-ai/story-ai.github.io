@@ -3,7 +3,7 @@ parts:
   - type: header
     content:
       id: header
-      title: What if learning came from the future?
+      title: What if learning was easy?
       subtitle: >-
         I showed my learning to the grown-ups, and asked them whether the
         drawing frightened them.
@@ -12,7 +12,7 @@ parts:
           filled: false
         - text: Learn More
           filled: true
-      image: /img/app-screen-02.png
+      image: /img/hat.jpg
       backgroundImage: /img/bg-01.png
       logo: /img/logo.svg
       nav:
