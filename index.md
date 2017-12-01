@@ -14,7 +14,7 @@ parts:
           filled: true
       image: /img/hat.jpg
       backgroundImage: /img/bg-01.png
-      logo: /img/logo.svg
+      logo: /img/Story logo (lower)-22.svg
       nav:
         items:
           - text: Home
@@ -132,3 +132,5 @@ parts:
           link: '#third'
       legalFooter: Copyright © 2017 Story. All Rights Reserved.
 ---
+
+
