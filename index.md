@@ -3,16 +3,19 @@ parts:
   - type: header
     content:
       id: header
-      title: What if learning was easy?
+      title: Learning that is as unique as your fingerprint.
       subtitle: >-
-        I showed my learning to the grown-ups, and asked them whether the
-        drawing frightened them.
+        Our GCSE Maths and English courses are as individual as you are,
+        tailored specifically to your learning style using advanced artificial
+        intelligence technologies. They’ve been curated by our team of dedicated
+        educators and all courses are designed to get you ready for your GCSE
+        exam.
       buttons:
-        - text: Free Download
+        - text: Free Trial
           filled: false
         - text: Learn More
           filled: true
-      image: /img/hat.jpg
+      image:
       backgroundImage: /img/bg-01.png
       logo: /siteicon.png
       nav:
@@ -101,9 +104,10 @@ parts:
           seem to me, a thousand miles from any human habitation and in danger
           of death, I took out of my pocket a sheet of paper and my
           fountain-pen.
-        - We can spill over onto multiple paragraphs too. seem to me, a thousand 
-          miles from any human habitation and in danger
-          of death, I took out of my pocket a sheet of paper and my
+        - >-
+          We can spill over onto multiple paragraphs too. seem to me, a thousand
+          miles from any human habitation and in danger of death, I took out of
+          my pocket a sheet of paper and my
       cta:
         text: Register
         link: '#register'
