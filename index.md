@@ -32,7 +32,7 @@ parts:
       header: How it works
       subtitle:
       content:
-        - - icon: direction
+        - - icon: address
             header: Personalised Learning Pathway
             text: >-
               This is your learning home. Your lessons have been put in the best
