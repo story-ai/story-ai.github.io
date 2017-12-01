@@ -101,7 +101,9 @@ parts:
           seem to me, a thousand miles from any human habitation and in danger
           of death, I took out of my pocket a sheet of paper and my
           fountain-pen.
-        - We can spill over onto multiple paragraphs too.
+        - We can spill over onto multiple paragraphs too. seem to me, a thousand 
+          miles from any human habitation and in danger
+          of death, I took out of my pocket a sheet of paper and my
       cta:
         text: Register
         link: '#register'
@@ -118,7 +120,7 @@ parts:
         - icon: instagrem
           link: '#third'
       signupText: Subscribe to our newsletter to receive exclusive content.
-      namePlaceholder: Name
+      namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
         text: Sign up!
