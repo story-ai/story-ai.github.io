@@ -32,17 +32,17 @@ parts:
       header: How it works
       subtitle:
       content:
-        - - icon: archive
+        - - icon: direction
             header: Personalised Learning Pathway
             text: >-
               This is your learning home. Your lessons have been put in the best
               order to suit your learning style.
-          - icon: archive
+          - icon: rocket
             header: Artificial Intelligence
             text: >-
               Cutting edge technology learns how your brain learns and then
               curates your content to perfectly suit you.
-          - icon: archive
+          - icon: network
             header: Neuroscience Techniques
             text: >-
               Our 'brain scientists' and teachers work together to create
