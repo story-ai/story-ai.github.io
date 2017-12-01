@@ -40,14 +40,13 @@ parts:
           - icon: rocket
             header: Artificial Intelligence
             text: >-
-              Cutting edge technology learns how your brain learns and then
-              curates your content to perfectly suit you.
+              Cutting edge technology learns how your brain learns then curates
+              learning to perfectly suit you.
           - icon: network
             header: Neuroscience Techniques
             text: >-
-              Our 'brain scientists' and teachers work together to create
-              learning materials that are designed to better stick in your
-              memory.
+              Our 'brain scientists' and teachers work to create learning
+              materials better stick in your memory.
   - type: section
     content:
       id: first
