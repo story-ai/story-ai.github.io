@@ -30,13 +30,13 @@ parts:
     content:
       id: features
       header: How it works
-      subtitle: Aren't we great at doing things!
+      subtitle:
       content:
         - - icon: archive
             header: Personalised Learning Pathway
             text: >-
-              This is your learning home. Lessons are in the best order to suit
-              your learning style.
+              This is your learning home. Your lessons have been put in the best
+              order to suit your learning style.
           - icon: archive
             header: Artificial Intelligence
             text: >-
