@@ -3,18 +3,18 @@ parts:
   - type: header
     content:
       id: header
-      title: What if learning was easy?
+      title: 'Learning, as unique as your fingerprint.'
       subtitle: >-
-        I showed my learning to the grown-ups, and asked them whether the
-        drawing frightened them.
+        Our GCSE Maths and English courses are as individual as you are thanks
+        to our advanced artificial intelligence technologies.
       buttons:
-        - text: Free Download
+        - text: Free Trial
           filled: false
         - text: Learn More
           filled: true
-      image: /img/hat.jpg
+      image:
       backgroundImage: /img/bg-01.png
-      logo: /img/logo.svg
+      logo: /siteicon.png
       nav:
         items:
           - text: Home
@@ -29,27 +29,24 @@ parts:
   - type: features
     content:
       id: features
-      header: Feature Minilist
-      subtitle: Aren't we great at doing things!
+      header: How it works
+      subtitle:
       content:
-        - - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-          - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-          - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-        - - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-          - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-          - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
+        - - icon: address
+            header: Personalised Learning Pathway
+            text: >-
+              This is your learning home. Your lessons have been put in the best
+              order to suit your learning style.
+          - icon: rocket
+            header: Artificial Intelligence
+            text: >-
+              Cutting edge technology learns how your brain learns then curates
+              learning to perfectly suit you.
+          - icon: network
+            header: Neuroscience Techniques
+            text: >-
+              Our 'brain scientists' and teachers work to create learning
+              materials better stick in your memory.
   - type: section
     content:
       id: first
@@ -101,7 +98,10 @@ parts:
           seem to me, a thousand miles from any human habitation and in danger
           of death, I took out of my pocket a sheet of paper and my
           fountain-pen.
-        - We can spill over onto multiple paragraphs too.
+        - >-
+          We can spill over onto multiple paragraphs too. seem to me, a thousand
+          miles from any human habitation and in danger of death, I took out of
+          my pocket a sheet of paper and my
       cta:
         text: Register
         link: '#register'
@@ -118,7 +118,7 @@ parts:
         - icon: instagrem
           link: '#third'
       signupText: Subscribe to our newsletter to receive exclusive content.
-      namePlaceholder: Name
+      namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
         text: Sign up!
@@ -132,3 +132,5 @@ parts:
           link: '#third'
       legalFooter: Copyright © 2017 Story. All Rights Reserved.
 ---
+
+
