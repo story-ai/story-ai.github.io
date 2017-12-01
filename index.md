@@ -3,7 +3,7 @@ parts:
   - type: header
     content:
       id: header
-      title: Learning as unique as your fingerprint.
+      title: 'Learning, as unique as your fingerprint.'
       subtitle: >-
         Our GCSE Maths and English courses are as individual as you are thanks
         to our advanced artificial intelligence technologies.
