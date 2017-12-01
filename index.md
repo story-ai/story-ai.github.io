@@ -29,27 +29,25 @@ parts:
   - type: features
     content:
       id: features
-      header: Feature Minilist
+      header: How it works
       subtitle: Aren't we great at doing things!
       content:
         - - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
+            header: Personalised Learning Pathway
+            text: >-
+              This is your learning home. Lessons are in the best order to suit
+              your learning style.
           - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
+            header: Artificial Intelligence
+            text: >-
+              Cutting edge technology learns how your brain learns and then
+              curates your content to perfectly suit you.
           - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-        - - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-          - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
-          - icon: archive
-            header: Unlimited Archive
-            text: so I lived my life alone...
+            header: Neuroscience Techniques
+            text: >-
+              Our 'brain scientists' and teachers work together to create
+              learning materials that are designed to better stick in your
+              memory.
   - type: section
     content:
       id: first
