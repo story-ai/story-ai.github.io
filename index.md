@@ -52,7 +52,7 @@ parts:
     content:
       id: first
       header: Personalised Learning
-      filled: true
+      filled: false
       text:
         - >-
           Your personal learning pathway is unique to you. It’s where you’ll
@@ -73,7 +73,7 @@ parts:
     content:
       id: second
       header: Second Header
-      filled: false
+      filled: true
       text:
         - >-
           When a mystery is too great, one dare not disobey. Absurd as it might
@@ -92,7 +92,7 @@ parts:
     content:
       id: third
       header: Personalised Learning
-      filled: true
+      filled: false
       text:
         - >-
           Your personal learning pathway is unique to you. It’s where you’ll
