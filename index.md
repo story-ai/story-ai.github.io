@@ -91,18 +91,20 @@ parts:
   - type: section
     content:
       id: third
-      header: Third Header
+      header: Personalised Learning
       filled: true
       text:
         - >-
-          When a mystery is too great, one dare not disobey. Absurd as it might
-          seem to me, a thousand miles from any human habitation and in danger
-          of death, I took out of my pocket a sheet of paper and my
-          fountain-pen.
-        - >-
-          We can spill over onto multiple paragraphs too. seem to me, a thousand
-          miles from any human habitation and in danger of death, I took out of
-          my pocket a sheet of paper and my
+          Your personal learning pathway is unique to you. It’s where you’ll
+          find all your lessons and learning materials, neatly organised by the
+          Story algorithm so that the best topic of study is always next in
+          line. You don’t have to worry about identifying skill gaps and
+          revision, we’ve got you covered so that you’re always up to date with
+          your learning.
+      image:
+        alignment: right
+        url: /img/device-portrait-dark.png
+        hoverText: Device
       cta:
         text: Register
         link: '#register'
