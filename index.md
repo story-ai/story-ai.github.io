@@ -51,7 +51,7 @@ parts:
   - type: section
     content:
       id: first
-      header: First Header
+      header: Personalised Learning
       filled: false
       text:
         - >-
@@ -68,9 +68,6 @@ parts:
       features:
         - header: Voice calling
           icon: phone
-          text: My friend smiled gently and indulgently
-        - header: Voice calling
-          icon: map
           text: My friend smiled gently and indulgently
   - type: section
     content:
