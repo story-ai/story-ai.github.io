@@ -5,8 +5,9 @@ parts:
       id: header
       title: 'Learning, as unique as your fingerprint.'
       subtitle: >-
-        Our GCSE Maths and English courses are as individual as you are thanks
-        to our advanced artificial intelligence technologies.
+        A learning platform for GCSE Maths and English that is as individual as
+        you are, using advanced artificial intelligence technologies to create
+        learning that matches your style.
       buttons:
         - text: Free Trial
           filled: false
@@ -50,36 +51,37 @@ parts:
   - type: section
     content:
       id: first
-      header: First Header
+      header: Personalised Learning
       filled: false
       text:
         - >-
-          When a mystery is too great, one dare not disobey. Absurd as it might
-          seem to me, a thousand miles from any human habitation and in danger
-          of death, I took out of my pocket a sheet of paper and my
-          fountain-pen.
+          Your personal learning pathway is unique to you. It’s where you’ll
+          find all your lessons and learning materials, neatly organised by the
+          Story algorithm so that the best topic of study is always next in
+          line. You don’t have to worry about identifying skill gaps and
+          revision, we’ve got you covered so that you’re always up to date with
+          your learning.
       image:
         alignment: right
         url: /img/device-portrait-dark.png
         hoverText: Device
-      features:
-        - header: Voice calling
-          icon: phone
-          text: My friend smiled gently and indulgently
-        - header: Voice calling
-          icon: map
-          text: My friend smiled gently and indulgently
+      cta:
+        text: Register
+        link: '#register'
+        filled: true
   - type: section
     content:
       id: second
-      header: Second Header
+      header: Artificial Intelligence
       filled: true
       text:
         - >-
-          When a mystery is too great, one dare not disobey. Absurd as it might
-          seem to me, a thousand miles from any human habitation and in danger
-          of death, I took out of my pocket a sheet of paper and my
-          fountain-pen.
+          As you learn, our amazing artificial intelligence (AI) technology will
+          learn all about how you learn... It might be that you study better
+          using videos, maybe good and simple text is best for you or perhaps
+          you just need it said in a different way. AI technology will pick up
+          on this and make sure that you’ve always got the right type of content
+          to help you learn best.
       image:
         alignment: left
         url: /img/device-portrait-light.png
@@ -91,17 +93,19 @@ parts:
   - type: section
     content:
       id: third
-      header: Third Header
+      header: Neuroscience Techniques
+      filled: false
       text:
         - >-
-          When a mystery is too great, one dare not disobey. Absurd as it might
-          seem to me, a thousand miles from any human habitation and in danger
-          of death, I took out of my pocket a sheet of paper and my
-          fountain-pen.
-        - >-
-          We can spill over onto multiple paragraphs too. seem to me, a thousand
-          miles from any human habitation and in danger of death, I took out of
-          my pocket a sheet of paper and my
+          Our cognitive neuroscientist works with our tech team to make sure
+          that all aspects of the platform are geared up to support long-term
+          learning that lasts. They’ve built in clever features like
+          recommendations on how to improve your long-term memory and
+          suggestions on when is the best time to revise any of your subjects.
+      image:
+        alignment: right
+        url: /img/device-portrait-dark.png
+        hoverText: Device
       cta:
         text: Register
         link: '#register'
@@ -110,6 +114,7 @@ parts:
     content:
       id: register
       header: Stay up-to-date
+      filled: false
       social:
         - icon: facebook
           link: '#header'
