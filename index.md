@@ -72,14 +72,16 @@ parts:
   - type: section
     content:
       id: second
-      header: Second Header
+      header: Artificial Intelligence
       filled: true
       text:
         - >-
-          When a mystery is too great, one dare not disobey. Absurd as it might
-          seem to me, a thousand miles from any human habitation and in danger
-          of death, I took out of my pocket a sheet of paper and my
-          fountain-pen.
+          As you learn, our amazing artificial intelligence (AI) technology will
+          learn all about how you learn... It might be that you study better
+          using videos, maybe good and simple text is best for you or perhaps
+          you just need it said in a different way. AI technology will pick up
+          on this and make sure that you’ve always got the right type of content
+          to help you learn best.
       image:
         alignment: left
         url: /img/device-portrait-light.png
