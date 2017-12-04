@@ -15,7 +15,7 @@ parts:
           filled: true
       image:
       backgroundImage: /img/bg-01.png
-      logo: /siteicon.png
+      logo: /img/STORY-web-LOGO-01.svg
       nav:
         items:
           - text: Home
