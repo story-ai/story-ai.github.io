@@ -52,7 +52,7 @@ parts:
     content:
       id: first
       header: Personalised Learning
-      filled: false
+      filled: true
       text:
         - >-
           Your personal learning pathway is unique to you. It’s where you’ll
@@ -65,15 +65,15 @@ parts:
         alignment: right
         url: /img/device-portrait-dark.png
         hoverText: Device
-      features:
-        - header: Voice calling
-          icon: phone
-          text: My friend smiled gently and indulgently
+      cta:
+        text: Register
+        link: '#register'
+        filled: true
   - type: section
     content:
       id: second
       header: Second Header
-      filled: true
+      filled: false
       text:
         - >-
           When a mystery is too great, one dare not disobey. Absurd as it might
@@ -92,6 +92,7 @@ parts:
     content:
       id: third
       header: Third Header
+      filled: true
       text:
         - >-
           When a mystery is too great, one dare not disobey. Absurd as it might
