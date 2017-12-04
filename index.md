@@ -7,7 +7,7 @@ parts:
       subtitle: >-
         A learning platform for GCSE Maths and English that is as individual as
         you are, using advanced artificial intelligence technologies to create
-        learning to match your style.
+        learning that matches your style.
       buttons:
         - text: Free Trial
           filled: false
