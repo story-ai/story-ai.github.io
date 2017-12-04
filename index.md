@@ -6,7 +6,8 @@ parts:
       title: 'Learning, as unique as your fingerprint.'
       subtitle: >-
         A learning platform for GCSE Maths and English that is as individual as
-        you are thanks to advanced artificial intelligence technologies.
+        you are, using advanced artificial intelligence technologies to create
+        learning to match your style.
       buttons:
         - text: Free Trial
           filled: false
