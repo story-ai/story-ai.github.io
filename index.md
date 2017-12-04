@@ -57,8 +57,8 @@ parts:
           your learning.
       image:
         alignment: right
-        url: /img/device-portrait-dark.png
-        hoverText: Device
+        url: /img/Learning-pathway.svg
+        hoverText: Learning Pathway
       cta:
         text: Register
         link: '#register'
