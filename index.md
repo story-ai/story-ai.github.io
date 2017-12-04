@@ -113,6 +113,7 @@ parts:
     content:
       id: register
       header: Stay up-to-date
+      filled: false
       social:
         - icon: facebook
           link: '#header'
