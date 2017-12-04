@@ -57,7 +57,7 @@ parts:
           your learning.
       image:
         alignment: right
-        url: /img/Learning-pathway.svg
+        url: /img/Map.svg
         hoverText: Learning Pathway
       cta:
         text: Register
@@ -78,8 +78,8 @@ parts:
           to help you learn best.
       image:
         alignment: left
-        url: /img/device-portrait-light.png
-        hoverText: Device
+        url: /img/Rocket.svg
+        hoverText: Rocket
       cta:
         text: Register
         link: '#register'
@@ -98,8 +98,8 @@ parts:
           suggestions on when is the best time to revise any of your subjects.
       image:
         alignment: right
-        url: /img/device-portrait-dark.png
-        hoverText: Device
+        url: /img/Science.svg
+        hoverText: Science
       cta:
         text: Register
         link: '#register'
