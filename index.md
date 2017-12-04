@@ -11,19 +11,13 @@ parts:
       buttons:
         - text: Free Trial
           filled: false
-        - text: Learn More
-          filled: true
       image:
       backgroundImage: /img/bg-01.png
       logo: /img/STORY-LOGO_MARTIN.svg
       nav:
         items:
           - text: Home
-            link: '#header'
-          - text: First Section
-            link: '#first'
-          - text: Second Section
-            link: '#second'
+            link: '#top'
         cta:
           text: Register
           link: '#register'
