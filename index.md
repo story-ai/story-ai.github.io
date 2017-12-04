@@ -93,16 +93,15 @@ parts:
   - type: section
     content:
       id: third
-      header: Personalised Learning
+      header: Neuroscience Techniques
       filled: false
       text:
         - >-
-          Your personal learning pathway is unique to you. It’s where you’ll
-          find all your lessons and learning materials, neatly organised by the
-          Story algorithm so that the best topic of study is always next in
-          line. You don’t have to worry about identifying skill gaps and
-          revision, we’ve got you covered so that you’re always up to date with
-          your learning.
+          Our cognitive neuroscientist works with our tech team to make sure
+          that all aspects of the platform are geared up to support long-term
+          learning that lasts. They’ve built in clever features like
+          recommendations on how to improve your long-term memory and
+          suggestions on when is the best time to revise any of your subjects.
       image:
         alignment: right
         url: /img/device-portrait-dark.png
