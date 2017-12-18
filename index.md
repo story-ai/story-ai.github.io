@@ -11,19 +11,13 @@ parts:
       buttons:
         - text: Free Trial
           filled: false
-        - text: Learn More
-          filled: true
       image:
       backgroundImage: /img/bg-01.png
-      logo: /siteicon.png
+      logo: /img/STORY-LOGO_MARTIN.svg
       nav:
         items:
           - text: Home
-            link: '#header'
-          - text: First Section
-            link: '#first'
-          - text: Second Section
-            link: '#second'
+            link: '#top'
         cta:
           text: Register
           link: '#register'
@@ -63,8 +57,8 @@ parts:
           your learning.
       image:
         alignment: right
-        url: /img/device-portrait-dark.png
-        hoverText: Device
+        url: /img/Map.svg
+        hoverText: Learning Pathway
       cta:
         text: Register
         link: '#register'
@@ -84,8 +78,8 @@ parts:
           to help you learn best.
       image:
         alignment: left
-        url: /img/device-portrait-light.png
-        hoverText: Device
+        url: /img/Rocket.svg
+        hoverText: Rocket
       cta:
         text: Register
         link: '#register'
@@ -104,8 +98,8 @@ parts:
           suggestions on when is the best time to revise any of your subjects.
       image:
         alignment: right
-        url: /img/device-portrait-dark.png
-        hoverText: Device
+        url: /img/Science.svg
+        hoverText: Science
       cta:
         text: Register
         link: '#register'
