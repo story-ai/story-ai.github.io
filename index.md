@@ -104,6 +104,22 @@ parts:
         text: Register
         link: '#register'
         filled: true
+  - type: section
+    content:
+      id: fourth
+      header: Getting started
+      filled: false
+      text:
+        - >-
+          Our cognitive neuroscientist works with our tech team to make sure
+          that all aspects of the platform are geared up to support long-term
+          learning that lasts. They’ve built in clever features like
+          recommendations on how to improve your long-term memory and
+          suggestions on when is the best time to revise any of your subjects.
+      cta:
+        text: Start here
+        link: '#register'
+        filled: true
   - type: footer
     content:
       id: register
