@@ -13,7 +13,7 @@ parts:
           filled: false
       image:
       backgroundImage: /img/bg-01.png
-      logo: /img/STORY-LOGO_MARTIN.svg
+      logo: /img/Story-logo-S-Navy-.svg
       nav:
         items:
           - text: Home
