@@ -1,5 +1,3 @@
 s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
 s3_secret: <%= ENV['S3_SECRET_KEY'] %>
-s3_endpoint: eu-west-2
-s3_bucket: new.story-ai.com
-
+s3_bucket: story-ai.com
