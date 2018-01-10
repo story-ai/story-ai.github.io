@@ -137,12 +137,8 @@ parts:
         text: Sign up!
         filled: false
       nav:
-        - text: Home
+        - text: Back to the top
           link: '#header'
-        - text: First Section
-          link: '#first'
-        - text: Third Section
-          link: '#third'
       legalFooter: Copyright © 2017 Story. All Rights Reserved.
 ---
 
