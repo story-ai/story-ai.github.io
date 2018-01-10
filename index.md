@@ -127,11 +127,9 @@ parts:
       filled: false
       social:
         - icon: facebook
-          link: '#header'
+          link: 'https://www.facebook.com/storyai/'
         - icon: twitter
-          link: '#first'
-        - icon: instagrem
-          link: '#third'
+          link: 'https://twitter.com/mystoryai'
       signupText: Subscribe to our newsletter to receive exclusive content.
       namePlaceholder: First Name
       emailPlaceholder: E-mail
