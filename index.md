@@ -5,9 +5,9 @@ parts:
       id: header
       title: We all have a unique learning style. Story teaches in your style.
       subtitle: >-
-        Learn more effectively and efficiently with our advanced learning
-        technology that learns how you learn. Story courses are uniquely created
-        to match your learning style.
+        Learn more effectively with advanced learning technology that learns how
+        you learn. Story courses are uniquely created to match your learning
+        style.
       buttons:
         - text: Free Trial
           filled: false
