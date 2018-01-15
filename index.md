@@ -23,6 +23,10 @@ parts:
         cta:
           text: Register
           link: '#register'
+	  sponsors:
+        url: '#'
+        img: /img/Story-logo-S-Navy-.svg
+        alt: 'Story'
   - type: features
     content:
       id: features

@@ -44,10 +44,9 @@
 
             <!-- Hero -->
             <div class="row align-items-center py-5">
-              	<div class="col-md-3"></div>
-                <div class="col-md-6 text-center text-md-left">
+                <div class="col-md-8 text-center offset-md-2">
 				  	{% for title in content.title %}
-                    <h1 class="mb-4">{{content.title}}</h1>
+                    	<h1 class="mb-4">{{title}}</h1>
 					{% endfor %}
                     <p>{{content.subtitle}}</p>
                     <div class="row mt-5">
@@ -65,6 +64,13 @@
                         </div>
                         {% endfor %}
                     </div>
+                	<div class="col-md-2 align-items-right">
+                        {% for sponsor in content.sponsors %}
+                  	  	  	<a class="navbar-brand" href="{{sponsor.url}}">
+                      	  	  	<img src="{{sponsor.img}}" width="120" height="120" alt="{{sponsor.alt}}">
+                  	  	  	</a>
+                        {% endfor %}
+				  	</div>
                 </div>
 				<!-- 
                 <div class="col-md-6 text-center mt-4 mt-md-0">
