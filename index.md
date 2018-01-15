@@ -3,7 +3,7 @@ parts:
   - type: header
     content:
       id: header
-      title: 
+      title:
         - We all have a unique learning style.
         - Story teaches in your style.
       subtitle: >-
@@ -23,10 +23,6 @@ parts:
         cta:
           text: Register
           link: '#register'
-      sponsors:
-          - url: '#'
-            img: '/img/Rocket.svg'
-            alt: 'Story'
   - type: features
     content:
       id: features
@@ -34,10 +30,11 @@ parts:
       subtitle:
       content:
         - - icon: address
-            header: Personalised Learning Pathway
+            header: 'Better, more efficient learning'
             text: >-
-              This is your learning home. Your lessons have been put in the best
-              order to suit your learning style.
+              By learning how your brain learns, Story identifies the best
+              learning materials to suit your style. Forget one-size-fits-all,
+              now your learning is individual.
           - icon: rocket
             header: Artificial Intelligence
             text: >-
