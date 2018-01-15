@@ -21,6 +21,10 @@ parts:
         cta:
           text: Register
           link: '#register'
+      sponsors:
+        - alt: Story
+          url: '#'
+          img: /img/STORY-LOGO_MARTIN.svg
   - type: features
     content:
       id: features

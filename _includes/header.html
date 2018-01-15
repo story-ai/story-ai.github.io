@@ -44,27 +44,36 @@
 
             <!-- Hero -->
             <div class="row align-items-center py-5">
-              	<div class="col-md-3"></div>
-                <div class="col-md-6 text-center text-md-left">
+                <div class="col-md-8 text-center offset-md-2">
 				  	{% for title in content.title %}
                     <h1 class="mb-4">{{content.title}}</h1>
 					{% endfor %}
                     <p>{{content.subtitle}}</p>
-                    <div class="row mt-5">
-                        {% for button in content.buttons %}
-                        <div class="col-md-auto">
-                            <a href="#download" class="btn btn-lg
-                                {% if button.filled %}
-                                btn-outline-light
-                                {% else %}
-                                btn-light
-                                {% endif %}
-                                ">
-                                {{button.text}}
-                            </a>
-                        </div>
-                        {% endfor %}
+                </div>
+
+                <div class="row mt-5">
+                	<div class="col-md-8 text-center offset-md-2">
+                      	{% for button in content.buttons %}
+                      	<div class="col-md-auto">
+                          	<a href="#download" class="btn btn-lg
+                              	{% if button.filled %}
+                              	btn-outline-light
+                              	{% else %}
+                              	btn-light
+                              	{% endif %}
+                              	">
+                              	{{button.text}}
+                          	</a>
+                      	</div>
+                      	{% endfor %}
                     </div>
+                	<div class="col-md-8 text-center offset-md-2">
+                      	{% for logo in content.sponsors %}
+                  	  	  	<a class="navbar-brand" href="{{logo.url}}">
+                      	  	  <img src="{{logo.img}}" width="120" height="120" alt="{{logo.alt}}">
+                  	  	  	</a>
+                      	{% endfor %}
+					</div>
                 </div>
 				<!-- 
                 <div class="col-md-6 text-center mt-4 mt-md-0">
