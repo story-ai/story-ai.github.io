@@ -32,24 +32,21 @@ parts:
         - - icon: rocket
             header: 'Better, More Efficient Learning'
             text: >-
-              By learning how your brain learns, Story identifies the best
-              learning materials to suit your style. Forget one-size-fits-all,
-              now your learning is individual. If you didn't quite get it first
-              time around, Story will explain again in a different way.
+              Story identifies the best learning materials to suit your learning
+              style. Forget one-size-fits-all, now your education is individual
+              to you.
           - icon: address
             header: Personal Learning Paths
             text: >-
-              Personalised learning pathways use artificial intelligence tech to
-              identify what's best for you to study next. Perhaps you need to
-              brush up on your fractions to better understand the current topic,
-              or maybe you just need a break - Story will remind you.
+              Artificial intelligence tech identifies what's best for you to
+              study next. Perhaps you need to brush up on your fractions to
+              better understand the current topic - Story will add it to your
+              learning path.
           - icon: network
             header: Long Lasting Learning
             text: >-
-              Story will revise old topics with you to make sure that your
-              learning is long lasting. And the instant feedback feature lets
-              you see how you've done immediately, not at the end of the course,
-              allowing you to learn as you go.
+              Story will revise old topics with you as you go to make sure that
+              your learning is long lasting.
   - type: section
     content:
       id: first
