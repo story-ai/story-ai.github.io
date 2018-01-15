@@ -3,21 +3,23 @@ parts:
   - type: header
     content:
       id: header
-      title: 'Learning, as unique as your fingerprint.'
+      title: 
+        - We all have a unique learning style.
+        - Story teaches in your style.
       subtitle: >-
-        A learning platform for GCSE Maths and English that is as individual as
-        you are, using advanced artificial intelligence technologies to create
-        learning that matches your style.
+        Learn more effectively with advanced learning technology that learns how
+        you learn. Story courses are uniquely created to match your learning
+        style.
       buttons:
         - text: Free Trial
           filled: false
       image:
       backgroundImage: /img/bg-01.png
-      logo: /img/STORY-LOGO_MARTIN.svg
+      logo: /img/Story-logo-S-Navy-.svg
       nav:
         items:
-          - text: Home
-            link: '#top'
+          - text: Login
+            link: 'https://app.story-ai.com/'
         cta:
           text: Register
           link: '#register'
@@ -108,6 +110,22 @@ parts:
         text: Register
         link: '#register'
         filled: true
+  - type: section
+    content:
+      id: fourth
+      header: Getting started
+      filled: false
+      text:
+        - >-
+          Our cognitive neuroscientist works with our tech team to make sure
+          that all aspects of the platform are geared up to support long-term
+          learning that lasts. They’ve built in clever features like
+          recommendations on how to improve your long-term memory and
+          suggestions on when is the best time to revise any of your subjects.
+      cta:
+        text: Start here
+        link: '#register'
+        filled: true
   - type: footer
     content:
       id: register
@@ -115,11 +133,9 @@ parts:
       filled: false
       social:
         - icon: facebook
-          link: '#header'
+          link: 'https://www.facebook.com/storyai/'
         - icon: twitter
-          link: '#first'
-        - icon: instagrem
-          link: '#third'
+          link: 'https://twitter.com/mystoryai'
       signupText: Subscribe to our newsletter to receive exclusive content.
       namePlaceholder: First Name
       emailPlaceholder: E-mail
@@ -127,12 +143,8 @@ parts:
         text: Sign up!
         filled: false
       nav:
-        - text: Home
+        - text: Back to the top
           link: '#header'
-        - text: First Section
-          link: '#first'
-        - text: Third Section
-          link: '#third'
       legalFooter: Copyright © 2017 Story. All Rights Reserved.
 ---
 
