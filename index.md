@@ -46,7 +46,7 @@ parts:
             header: Long Lasting Learning
             text: >-
               Story will revise old topics with you as you go to make sure that
-              your learning is long lasting.
+              you've always got the knowledge at the top of your mind.
   - type: section
     content:
       id: first
