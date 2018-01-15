@@ -16,8 +16,8 @@ parts:
       logo: /img/Story-logo-S-Navy-.svg
       nav:
         items:
-          - text: Home
-            link: '#top'
+          - text: Login
+            link: 'https://app.story-ai.com/'
         cta:
           text: Register
           link: '#register'
