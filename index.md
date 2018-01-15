@@ -39,9 +39,9 @@ parts:
             header: Personal Learning Paths
             text: >-
               Artificial intelligence tech identifies what's best for you to
-              study next. Perhaps you need to brush up on your fractions to
-              better understand the current topic - Story will add it to your
-              learning path.
+              study next. Perhaps you need to practice fractions to better
+              understand the current topic - Story will add it to your learning
+              path.
           - icon: network
             header: Long Lasting Learning
             text: >-
