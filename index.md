@@ -29,22 +29,27 @@ parts:
       header: How it works
       subtitle:
       content:
-        - - icon: address
-            header: 'Better, more efficient learning'
+        - - icon: rocket
+            header: 'Better, More Efficient Learning'
             text: >-
               By learning how your brain learns, Story identifies the best
               learning materials to suit your style. Forget one-size-fits-all,
-              now your learning is individual.
-          - icon: rocket
-            header: Artificial Intelligence
+              now your learning is individual. If you didn't quite get it first
+              time around, Story will explain again in a different way.
+          - icon: address
+            header: Personal Learning Paths
             text: >-
-              Cutting edge technology learns how your brain learns then curates
-              learning to perfectly suit you.
+              Personalised learning pathways use artificial intelligence tech to
+              identify what's best for you to study next. Perhaps you need to
+              brush up on your fractions to better understand the current topic,
+              or maybe you just need a break - Story will remind you.
           - icon: network
-            header: Neuroscience Techniques
+            header: Long Lasting Learning
             text: >-
-              Our 'brain scientists' and teachers work to create learning
-              materials better stick in your memory.
+              Story will revise old topics with you to make sure that your
+              learning is long lasting. And the instant feedback feature lets
+              you see how you've done immediately, not at the end of the course,
+              allowing you to learn as you go.
   - type: section
     content:
       id: first
