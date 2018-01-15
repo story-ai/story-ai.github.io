@@ -3,11 +3,11 @@ parts:
   - type: header
     content:
       id: header
-      title: 'Learning, as unique as your fingerprint.'
+      title: We all have a unique learning style. Story teaches in your style.
       subtitle: >-
-        A learning platform for GCSE Maths and English that is as individual as
-        you are, using advanced artificial intelligence technologies to create
-        learning that matches your style.
+        Learn more effectively and efficiently with our advanced learning
+        technology that learns how you learn. Story courses are uniquely created
+        to match your learning style.
       buttons:
         - text: Free Trial
           filled: false
