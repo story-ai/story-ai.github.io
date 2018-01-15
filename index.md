@@ -24,9 +24,9 @@ parts:
           text: Register
           link: '#register'
       sponsors:
-        - alt: Story
-          url: '#'
-          img: /img/STORY-LOGO_MARTIN.svg
+          - url: '#'
+            img: '/img/Rocket.svg'
+            alt: 'Story'
   - type: features
     content:
       id: features
