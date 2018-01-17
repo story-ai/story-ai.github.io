@@ -47,7 +47,7 @@ parts:
             text: >-
               Story will revise old topics with you as you go to make sure that
               you've always got the knowledge at the top of your mind.
-  - type: Getting Started
+  - type: section
     content:
       id: fourth
       header: Getting started
@@ -58,7 +58,7 @@ parts:
         text: Start here
         link: '#register'
         filled: false
-  - type: GCSE Maths and English
+  - type: section
     content:
       id: first
       header: GCSE Maths and English
@@ -76,7 +76,7 @@ parts:
         text: Get started
         link: 'https://app.story-ai.com/'
         filled: true
-  - type: Artificial Intelligence
+  - type: section
     content:
       id: second
       header: Artificial Intelligence
@@ -97,7 +97,7 @@ parts:
         text: Register
         link: '#register'
         filled: true
-  - type: Neuroscience
+  - type: section
     content:
       id: third
       header: Neuroscience Techniques
