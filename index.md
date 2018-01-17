@@ -25,7 +25,7 @@ parts:
           link: 'https://app.story-ai.com/'
       sponsors:
         - url:
-          img: /img/Century-logo-black.svg
+          img: /img/Century-logo-white.png
           alt: Powered by CENTURY
   - type: features
     content:
