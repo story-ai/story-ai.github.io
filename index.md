@@ -49,17 +49,6 @@ parts:
               you've always got the knowledge at the top of your mind.
   - type: section
     content:
-      id: fourth
-      header: Getting started
-      filled: false
-      text:
-        -
-      cta:
-        text: Start here
-        link: '#register'
-        filled: false
-  - type: section
-    content:
       id: first
       header: GCSE Maths and English
       filled: false
@@ -117,6 +106,17 @@ parts:
         text: Register
         link: '#register'
         filled: true
+  - type: section
+    content:
+      id: fourth
+      header: Getting started
+      filled: false
+      text:
+        -
+      cta:
+        text: Start here
+        link: '#register'
+        filled: false
   - type: footer
     content:
       id: register
