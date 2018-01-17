@@ -23,7 +23,7 @@ parts:
         cta:
           text: Register
           link: '#register'
-  - type: How it Works
+  - type: features
     content:
       id: How it Works
       header: How it works
