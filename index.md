@@ -15,7 +15,7 @@ parts:
           filled: false
       image:
       backgroundImage: /img/bg-01.png
-      logo: /img/Story-logo-S-Navy-.svg
+      logo: /img/Story-logo.svg
       nav:
         items:
           - text: Login
@@ -24,9 +24,9 @@ parts:
           text: Sign up
           link: 'https://app.story-ai.com/'
       sponsors:
-         - url: #
-           img: /img/Story-logo-S-Navy-.svg
-           alt: asdf
+        - url:
+          img: /img/Story-logo-S-Navy-.svg
+          alt: asdf
   - type: features
     content:
       id: How it Works
