@@ -23,6 +23,10 @@ parts:
         cta:
           text: Sign up
           link: 'https://app.story-ai.com/'
+      sponsors:
+         - url: #
+           img: /img/Story-logo-S-Navy-.svg
+           alt: asdf
   - type: features
     content:
       id: How it Works
