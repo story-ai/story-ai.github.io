@@ -62,8 +62,8 @@ parts:
         url: /img/Map.svg
         hoverText: Learning Pathway
       cta:
-        text: Register
-        link: '#register'
+        text: Get started
+        link: 'https://app.story-ai.com/'
         filled: true
   - type: section
     content:
