@@ -3,71 +3,72 @@ parts:
   - type: header
     content:
       id: header
-      title: 
-        - We all have a unique learning style.
-        - Story teaches in your style.
+      title:
+        - We all have a unique learning style
+        - Story teaches in yours
       subtitle: >-
-        Learn more effectively with advanced learning technology that learns how
+        Study more effectively with advanced learning technology that learns how
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Free Trial
+        - text: Sign up now
           filled: false
       image:
       backgroundImage: /img/bg-01.png
-      logo: /img/Story-logo-S-Navy-.svg
+      logo: /img/Story-logo.svg
       nav:
         items:
           - text: Login
             link: 'https://app.story-ai.com/'
         cta:
-          text: Register
-          link: '#register'
+          text: Sign up
+          link: 'https://app.story-ai.com/'
       sponsors:
-          - url: '#'
-            img: '/img/Rocket.svg'
-            alt: 'Story'
+        - url:
+          img: /img/Century-logo-white.png
+          alt: Powered by CENTURY
   - type: features
     content:
-      id: features
+      id: How it Works
       header: How it works
       subtitle:
       content:
-        - - icon: address
-            header: Personalised Learning Pathway
+        - - icon: rocket
+            header: 'Better, More Efficient Learning'
             text: >-
-              This is your learning home. Your lessons have been put in the best
-              order to suit your learning style.
-          - icon: rocket
-            header: Artificial Intelligence
+              Story identifies the best learning materials to suit your learning
+              style. Forget one-size-fits-all, now your education is individual
+              to you.
+          - icon: address
+            header: Personal Learning Paths
             text: >-
-              Cutting edge technology learns how your brain learns then curates
-              learning to perfectly suit you.
+              Artificial intelligence tech identifies what's best for you to
+              study next. Perhaps you need to practice fractions to better
+              understand the current topic - Story will add it to your learning
+              path.
           - icon: network
-            header: Neuroscience Techniques
+            header: Long Lasting Learning
             text: >-
-              Our 'brain scientists' and teachers work to create learning
-              materials better stick in your memory.
+              Story will revise old topics with you as you go to make sure that
+              you've always got the knowledge at the top of your mind.
   - type: section
     content:
       id: first
-      header: Personalised Learning
+      header: GCSE Maths and English
       filled: false
       text:
         - >-
-          Your personal learning pathway is unique to you. It’s where you’ll
-          find all your lessons and learning materials, neatly organised by the
-          Story algorithm so that the best topic of study is always next in
-          line. You don’t have to worry about identifying skill gaps and
-          revision, we’ve got you covered so that you’re always up to date with
-          your learning.
+          Our GCSE Maths and English courses have been designed and curated by a
+          team of professional teachers to meet the exact requirements of the UK
+          national curriculum. New courses are currently being built so check
+          back soon for the latest subjects.
       image:
         alignment: right
-        url: /img/Map.svg
+        url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
-        text: Register
-        link: '#register'
+        text: Get started
+        link: 'https://app.story-ai.com/'
         filled: true
   - type: section
     content:
@@ -92,40 +93,18 @@ parts:
         filled: true
   - type: section
     content:
-      id: third
-      header: Neuroscience Techniques
-      filled: false
-      text:
-        - >-
-          Our cognitive neuroscientist works with our tech team to make sure
-          that all aspects of the platform are geared up to support long-term
-          learning that lasts. They’ve built in clever features like
-          recommendations on how to improve your long-term memory and
-          suggestions on when is the best time to revise any of your subjects.
-      image:
-        alignment: right
-        url: /img/Science.svg
-        hoverText: Science
-      cta:
-        text: Register
-        link: '#register'
-        filled: true
-  - type: section
-    content:
       id: fourth
       header: Getting started
       filled: false
       text:
         - >-
-          Our cognitive neuroscientist works with our tech team to make sure
-          that all aspects of the platform are geared up to support long-term
-          learning that lasts. They’ve built in clever features like
-          recommendations on how to improve your long-term memory and
-          suggestions on when is the best time to revise any of your subjects.
+          Getting started on Story is free and easy. Simply create an account
+          and then choose a course - some are free and some aren't, but all are
+          personalised to suite your way of learning!
       cta:
         text: Start here
         link: '#register'
-        filled: true
+        filled: false
   - type: footer
     content:
       id: register
