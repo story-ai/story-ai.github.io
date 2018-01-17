@@ -23,7 +23,7 @@ parts:
         cta:
           text: Register
           link: '#register'
-  - type: features
+  - type: How it Works
     content:
       id: features
       header: How it works
@@ -47,7 +47,18 @@ parts:
             text: >-
               Story will revise old topics with you as you go to make sure that
               you've always got the knowledge at the top of your mind.
-  - type: section
+  - type: Getting Started
+    content:
+      id: fourth
+      header: Getting started
+      filled: false
+      text:
+        -
+      cta:
+        text: Start here
+        link: '#register'
+        filled: false
+  - type: GCSE Maths and English
     content:
       id: first
       header: GCSE Maths and English
@@ -65,7 +76,7 @@ parts:
         text: Get started
         link: 'https://app.story-ai.com/'
         filled: true
-  - type: section
+  - type: Artificial Intelligence
     content:
       id: second
       header: Artificial Intelligence
@@ -86,7 +97,7 @@ parts:
         text: Register
         link: '#register'
         filled: true
-  - type: section
+  - type: Neuroscience
     content:
       id: third
       header: Neuroscience Techniques
@@ -104,22 +115,6 @@ parts:
         hoverText: Science
       cta:
         text: Register
-        link: '#register'
-        filled: true
-  - type: section
-    content:
-      id: fourth
-      header: Getting started
-      filled: false
-      text:
-        - >-
-          Our cognitive neuroscientist works with our tech team to make sure
-          that all aspects of the platform are geared up to support long-term
-          learning that lasts. They’ve built in clever features like
-          recommendations on how to improve your long-term memory and
-          suggestions on when is the best time to revise any of your subjects.
-      cta:
-        text: Start here
         link: '#register'
         filled: true
   - type: footer
