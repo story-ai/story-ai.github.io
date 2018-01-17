@@ -25,7 +25,7 @@ parts:
           link: '#register'
   - type: How it Works
     content:
-      id: features
+      id: How it Works
       header: How it works
       subtitle:
       content:
