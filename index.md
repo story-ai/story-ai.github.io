@@ -9,7 +9,7 @@ parts:
       subtitle: >-
         Study more effectively with advanced learning technology that learns how
         you learn. Story courses are uniquely created to match your learning
-        style.
+        style..
       buttons:
         - text: Sign up now
           filled: false
