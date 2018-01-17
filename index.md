@@ -50,16 +50,13 @@ parts:
   - type: section
     content:
       id: first
-      header: Personalised Learning
+      header: GCSE Maths and English
       filled: false
       text:
         - >-
-          Your personal learning pathway is unique to you. It’s where you’ll
-          find all your lessons and learning materials, neatly organised by the
-          Story algorithm so that the best topic of study is always next in
-          line. You don’t have to worry about identifying skill gaps and
-          revision, we’ve got you covered so that you’re always up to date with
-          your learning.
+          Our GCSE Maths and English courses have been designed and curated by a
+          team of professional teachers to meet the exact requirements of the UK
+          national curriculum.
       image:
         alignment: right
         url: /img/Map.svg
