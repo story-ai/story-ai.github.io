@@ -59,7 +59,7 @@ parts:
           national curriculum.
       image:
         alignment: right
-        url: /img/Map.svg
+        url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
         text: Get started
