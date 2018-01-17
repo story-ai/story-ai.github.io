@@ -56,7 +56,8 @@ parts:
         - >-
           Our GCSE Maths and English courses have been designed and curated by a
           team of professional teachers to meet the exact requirements of the UK
-          national curriculum.
+          national curriculum. New courses are being built now so check back
+          soon for the latest subjects.
       image:
         alignment: right
         url: /img/blackboard.svg
