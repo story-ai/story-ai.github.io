@@ -69,7 +69,7 @@ parts:
     content:
       id: second
       header: Artificial Intelligence
-      filled: true
+      filled: false
       text:
         - >-
           As you learn, our amazing artificial intelligence (AI) technology will
