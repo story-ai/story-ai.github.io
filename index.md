@@ -56,8 +56,8 @@ parts:
         - >-
           Our GCSE Maths and English courses have been designed and curated by a
           team of professional teachers to meet the exact requirements of the UK
-          national curriculum. New courses are being built now so check back
-          soon for the latest subjects.
+          national curriculum. New courses are currently being built so check
+          back soon for the latest subjects.
       image:
         alignment: right
         url: /img/blackboard.svg
@@ -95,8 +95,8 @@ parts:
       text:
         - >-
           Getting started on Story is free and easy. Simply create an account
-          and then choose a course - some are free and some are paid. Come and
-          have a look around!
+          and then choose a course - some are free and some aren't, but all are
+          personalised to suite your way of learning!
       cta:
         text: Start here
         link: '#register'
