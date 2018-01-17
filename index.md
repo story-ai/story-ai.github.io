@@ -11,7 +11,7 @@ parts:
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Register now
+        - text: Sign up now
           filled: false
       image:
       backgroundImage: /img/bg-01.png
@@ -21,8 +21,8 @@ parts:
           - text: Login
             link: 'https://app.story-ai.com/'
         cta:
-          text: Register
-          link: '#register'
+          text: Sign up
+          link: 'https://app.story-ai.com/'
   - type: features
     content:
       id: How it Works
@@ -92,7 +92,10 @@ parts:
       header: Getting started
       filled: false
       text:
-        -
+        - >-
+          Getting started on Story is free and easy. Simply create an account
+          and then choose a course - some are free and some are paid. Come and
+          have a look around!
       cta:
         text: Start here
         link: '#register'
