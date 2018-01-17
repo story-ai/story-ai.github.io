@@ -25,8 +25,8 @@ parts:
           link: 'https://app.story-ai.com/'
       sponsors:
         - url:
-          img: /img/Story-logo-S-Navy-.svg
-          alt: asdf
+          img: /img/Century-logo-white.jpg
+          alt: Powered by CENTURY
   - type: features
     content:
       id: How it Works
