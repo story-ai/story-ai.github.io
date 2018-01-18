@@ -11,7 +11,7 @@ parts:
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Sign up now
+        - text: Get started
           filled: false
       image:
       backgroundImage: /img/bg-01.png
