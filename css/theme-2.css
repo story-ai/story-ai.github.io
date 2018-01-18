@@ -209,7 +209,6 @@ body {
   padding: 5rem 0;
 }
 .main-hero {
-  min-height: 600px;
   background-image: linear-gradient(to bottom right, #5534ff 0%, #0c7aee 48%, #69ffab 100%);
   color: #fff;
 }
@@ -217,6 +216,7 @@ body {
   background: url(../img/bg-01.png) center center no-repeat;
   background-size: cover;
   padding: 2rem 0;
+  padding-bottom: 4rem;
 }
 .main-hero h1 {
   font-weight: 300;
