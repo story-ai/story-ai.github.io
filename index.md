@@ -64,13 +64,9 @@ parts:
           uniquely tailored. Each individual can now expand their skill set at
           their pace.
       image:
-        alignment: right
+        alignment: left
         url: /img/blackboard.svg
         hoverText: Learning Pathway
-      cta:
-        text:
-        link:
-        filled: false
   - type: section
     content:
       id: first
