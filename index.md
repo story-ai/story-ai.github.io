@@ -65,8 +65,8 @@ parts:
           their pace.
       image:
         alignment: left
-        url: /img/blackboard.svg
-        hoverText: Learning Pathway
+        url: /img/Laptop.svg
+        hoverText: Laptop
   - type: section
     content:
       id: first
