@@ -70,7 +70,7 @@ parts:
         text: Get started
         link: 'https://app.story-ai.com/'
         filled: true
-- type: section
+  - type: section
     content:
       id: first
       header: GCSE Maths and English
