@@ -53,23 +53,24 @@ parts:
               you've always got the knowledge at the top of your mind.
   - type: section
     content:
-      id: first
-      header: GCSE Maths and English
-      filled: false
+      id: Learners
+      header: Lifelong Learning
+      filled: true
       text:
         - >-
-          Our GCSE Maths and English courses have been designed and curated by a
-          team of professional teachers to meet the exact requirements of the UK
-          national curriculum. New courses are currently being built so check
-          back soon for the latest subjects.
+          Story was designed with the huge diversity of learners in mind: people
+          of all ages, geographies and learning styles. Using diagnostic
+          assessments alongside CENTURY Tech’s AI allows course delivery to be
+          uniquely tailored. Each individual can now expand their skill set at
+          their pace.
       image:
         alignment: right
         url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
-        text: Get started
-        link: 'https://app.story-ai.com/'
-        filled: true
+        text:
+        link:
+        filled: false
   - type: section
     content:
       id: first
