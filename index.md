@@ -63,6 +63,11 @@ parts:
           assessments alongside CENTURY Tech’s AI allows course delivery to be
           uniquely tailored. Each individual can now expand their skill set at
           their pace.
+        - >-
+          At launch, Story will offer a suite of GCSE courses covering all core
+          subjects.  Our content roadmap includes; English as a Foreign Language
+          (EFL), soft skills subjects, vocational qualifications and
+          Nanodegrees.
       image:
         alignment: left
         url: /img/Laptop.svg
@@ -78,11 +83,6 @@ parts:
           team of professional teachers to meet the exact requirements of the UK
           national curriculum. New courses are currently being built so check
           back soon for the latest subjects.
-        - >-
-          At launch, Story will offer a suite of GCSE courses covering all core
-          subjects.  Our content roadmap includes; English as a Foreign Language
-          (EFL), soft skills subjects, vocational qualifications and
-          Nanodegrees.
       image:
         alignment: right
         url: /img/blackboard.svg
