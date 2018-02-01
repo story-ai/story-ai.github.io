@@ -58,16 +58,16 @@ parts:
       filled: true
       text:
         - >-
-          Story was designed with the huge diversity of learners in mind: people
-          of all ages, geographies and learning styles. Using diagnostic
-          assessments alongside CENTURY Tech’s AI allows course delivery to be
-          uniquely tailored. Each individual can now expand their skill set at
-          their pace.
+          We’ve designed Story for every learner; no matter your age, place or
+          learning style. It doesn’t matter what level you start at, we’ll do a
+          diagnostic to understand where you are and then CENTURY’s artificial
+          intelligence will tailor your course to suit you.
         - >-
-          At launch, Story will offer a suite of GCSE courses covering all core
-          subjects.  Our content roadmap includes; English as a Foreign Language
-          (EFL), soft skills subjects, vocational qualifications and
-          Nanodegrees.
+          Right now we have courses in Cryptocurrency, GCSE Maths and GCSE
+          English, and we will shortly be releasing a full suite of GCSE courses
+          that cover the core subjects. Our roadmap includes Vocational
+          qualifications, Soft Skills, Nanodegrees and English as a Foreign
+          Language (EFL).
       image:
         alignment: left
         url: /img/Laptop.svg
