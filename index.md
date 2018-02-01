@@ -11,7 +11,7 @@ parts:
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Sign up now
+        - text: Get started
           filled: false
       image:
       backgroundImage: /img/bg-01.png
@@ -51,6 +51,27 @@ parts:
             text: >-
               Story will revise old topics with you as you go to make sure that
               you've always got the knowledge at the top of your mind.
+  - type: section
+    content:
+      id: Learners
+      header: Lifelong Learning
+      filled: true
+      text:
+        - >-
+          We’ve designed Story for every learner; no matter your age, place or
+          learning style. It doesn’t matter what level you start at, we’ll do a
+          diagnostic to understand where you are and then CENTURY’s artificial
+          intelligence will tailor your course to suit you.
+        - >-
+          Right now we have courses in Cryptocurrency, GCSE Maths and GCSE
+          English, and we will shortly be releasing a full suite of GCSE courses
+          that cover the core subjects. Our roadmap includes Vocational
+          qualifications, Soft Skills, Nanodegrees and English as a Foreign
+          Language (EFL).
+      image:
+        alignment: left
+        url: /img/Laptop.svg
+        hoverText: Laptop
   - type: section
     content:
       id: first
