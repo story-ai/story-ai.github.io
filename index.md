@@ -110,9 +110,9 @@ parts:
         url: /img/Rocket.svg
         hoverText: Rocket
       cta:
-        text: Register
-        link: '#register'
-        filled: true
+        text:
+        link:
+        filled: false
   - type: section
     content:
       id: fourth
