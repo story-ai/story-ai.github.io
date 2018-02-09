@@ -109,10 +109,6 @@ parts:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
-      cta:
-        text:
-        link:
-        filled: false
   - type: section
     content:
       id: fourth
@@ -125,7 +121,7 @@ parts:
           personalised to suite your way of learning!
       cta:
         text: Start here
-        link: '#register'
+        link: 'https://app.story-ai.com/'
         filled: false
   - type: footer
     content:
