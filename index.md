@@ -12,6 +12,7 @@ parts:
         style.
       buttons:
         - text: Get started
+          link: 'https://app.story-ai.com/'
           filled: false
       image:
       backgroundImage: /img/bg-01.png
