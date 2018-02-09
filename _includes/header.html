@@ -57,7 +57,7 @@
                 <div class="col-md-8 text-center">
                     {% for button in content.buttons %}
                     <div class="col-md-auto">
-                        <a href="#download" class="btn btn-lg
+                      <a href="{{button.link}}" class="btn btn-lg
                             {% if button.filled %}
                             btn-outline-light
                             {% else %}
