@@ -12,6 +12,7 @@ parts:
         style.
       buttons:
         - text: Get started
+          link: 'https://app.story-ai.com/'
           filled: false
       image:
       backgroundImage: /img/bg-01.png
@@ -108,10 +109,6 @@ parts:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
-      cta:
-        text: Register
-        link: '#register'
-        filled: true
   - type: section
     content:
       id: fourth
@@ -124,7 +121,7 @@ parts:
           personalised to suite your way of learning!
       cta:
         text: Start here
-        link: '#register'
+        link: 'https://app.story-ai.com/'
         filled: false
   - type: footer
     content:
