@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.3.3
 install: gem install jekyll:3.5.2 bundler s3_website  && bundle install --jobs=3 --retry=3
-script: jekyll build
+script: bundle exec jekyll build
 after_success: s3_website push
 branches:
   only:
