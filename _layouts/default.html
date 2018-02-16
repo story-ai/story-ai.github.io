@@ -24,6 +24,8 @@
             {% include section_landscape.html content=part.content %} 
         {% elsif part.type == "section" %}
             {% include section.html content=part.content %} 
+        {% elsif part.type == "body" %}
+            {% include body.html content=part.content %} 
         {% endif %}
 
     {% endfor %} 

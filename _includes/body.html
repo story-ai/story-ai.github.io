@@ -1,0 +1,91 @@
+{% assign section = include.content %}
+
+{% capture image %}
+    {% if section.image %}
+        <div class="col-md text-center">
+            <img src="{{section.image.url}}"
+                    alt="{{section.image.hoverText}}" 
+                    class="img-fluid img-device mw-330" 
+                    data-enter="fadein" 
+                    style="transform: translateY(70px)">
+        </div>
+    {% endif %}
+{% endcapture %}
+
+<div class="block block-main-feature"
+    {% if section.filled %}
+    style="
+        background-image: linear-gradient(to bottom right, #5534ff 0%, #0c7aee 48%, #69ffab 100%);
+        color: rgba(255,255,255,.6);
+    "
+    {% endif %}
+    id="{{section.id}}"
+>
+    <div class="container">
+        <div class="row align-items-center">
+            {% if section.image and section.image.alignment == "left" %} 
+                {{image}}
+            {% endif %}
+            <div class="col">
+                <h2
+                    {% if section.filled %}
+                    style="
+                        color: rgba(255,255,255,.9);
+                    "
+                    {% endif %}
+                >
+                    {{section.header}}
+                </h2>
+
+                    <p>
+                        {{page.content | markdownify}}
+                    </p>
+
+                {% if section.features %}
+                    <div class="row my-5">
+                        {% for feature in section.features %}
+                            <div class="col-md content-feature-sub mt-4 mt-md-0">
+                                <p>
+                                    <span class="icon-themed icon-sm icon-{{feature.icon}}"></span>
+                                </p>
+                                <h3>{{feature.header}}</h3>
+                                <p>
+                                    {{feature.text}}
+                                </p>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+
+                {% if section.cta %}
+                    <p>
+                        <a href="{{section.cta.link}}" class="btn 
+                            {% if section.filled %}
+                                {% if section.cta.filled %}
+                                    btn-light
+                                {% else %}
+                                    btn-outline-light
+                                {% endif %}
+                            {% else %}
+                                {% if section.cta.filled %}
+                                    btn-dark
+                                {% else %}
+                                    btn-outline-dark
+                                {% endif %}
+                            {% endif %}
+                        ">
+                            {{section.cta.text}}
+                        </a>
+                    </p>
+                {% endif %}
+                
+            </div>
+
+            {% if section.image and section.image.alignment == "right" %} 
+                {{image}}
+            {% endif %}
+
+
+        </div>
+    </div>
+</div>

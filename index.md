@@ -142,7 +142,5 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
-      legalFooter: Copyright © 2017 Story. All Rights Reserved.
+      legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
-
-
