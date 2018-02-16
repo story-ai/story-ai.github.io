@@ -59,4 +59,14 @@ parts:
 
 # Hello world
 
-Some content could go here.
+Some content could go here. This is sort of WYSWIG? Certainly I **can*** add* formatting.
+
+I can add text in paragraphs. For example, lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id lobortis lacus, non venenatis neque. Praesent blandit diam eget magna pulvinar, in congue purus condimentum. Sed purus ante, imperdiet et mattis vitae, rhoncus eu nulla. Cras fermentum urna sit amet nulla tincidunt, id dictum risus efficitur. Nam vestibulum efficitur ante et semper. Duis facilisis lacus eget pellentesque dictum. In quis enim volutpat ante placerat mattis sit amet et diam. Morbi augue libero, sodales venenatis orci a, ultrices bibendum odio.
+
+I can add pictures:
+
+![](/uploads/versions/gallery-02---x----1000-667x---.jpg)
+
+And I can add quotes:&nbsp;
+
+> This is a great thing! - Christopher Little
