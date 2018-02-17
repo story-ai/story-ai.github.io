@@ -19,10 +19,10 @@ parts:
       logo: /img/Story-logo.svg
       nav:
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
           - text: Maths
             link: /maths
+          - text: Login
+            link: 'https://app.story-ai.com/'
         cta:
           text: Sign up
           link: 'https://app.story-ai.com/'
