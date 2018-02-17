@@ -21,6 +21,8 @@ parts:
         items:
           - text: Login
             link: 'https://app.story-ai.com/'
+          - text: Maths
+            link: /maths
         cta:
           text: Sign up
           link: 'https://app.story-ai.com/'
@@ -144,3 +146,4 @@ parts:
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
+
