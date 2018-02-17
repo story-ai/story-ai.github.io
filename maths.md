@@ -56,6 +56,8 @@ parts:
 
 #### A Maths GCSE qualification is often a vital requirement for your future career, be that in the workplace or in further education. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
 
+## &nbsp;
+
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
 Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
