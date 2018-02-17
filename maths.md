@@ -77,6 +77,3 @@ parts:
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
 Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
-
-
-**Number<br>Algebra<br>Ratio, proportion and rates of change<br>Geometry and measures<br>Probability<br>Statistics**
