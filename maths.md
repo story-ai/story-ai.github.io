@@ -60,6 +60,8 @@ Unlike other online learning platforms, all of Story’s courses are personalise
 
 Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
 
+## &nbsp;
+
 ## Learning Outcomes
 
 1. Develop fluent knowledge, skills and understanding of mathematical methods and concepts
@@ -69,6 +71,8 @@ Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional 
 3. Reason mathematically, make deductions and inferences and draw conclusions
 
 4. Comprehend, interpret and communicate mathematical information in a variety of forms appropriate to the information and context.
+
+## &nbsp;
 
 ## Subject Content
 
