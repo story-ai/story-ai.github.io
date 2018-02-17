@@ -24,15 +24,12 @@ parts:
         - >-
           1. Develop fluent knowledge, skills and understanding of mathematical
           methods and concepts
-
-
+          
           2. Acquire, select and apply mathematical techniques to solve problems
-
 
           3. Reason mathematically, make deductions and inferences and draw
           conclusions
-
-
+          
           4. Comprehend, interpret and communicate mathematical information in a
           variety of forms appropriate to the information and context.
       image:
@@ -41,22 +38,15 @@ parts:
         hoverText: Rocket
   - type: section
     content:
-      id:
-      header:
-      filled: false
-      social:
-        - icon:
-          link:
-      signupText:
-      namePlaceholder:
-      emailPlaceholder:
-      button:
-        text:
-        filled: false
-      nav:
-        - text:
-          link:
-      legalFooter:
+      id: second
+      header: Learning Outcomes
+      text:
+        - >-
+          This course follows the UK’s Department of Education specification for GCSE level mathematics.  Each topic (Number, Algebra, Ratio, Proportion and rates of change, Geometry and measures, Probability, Statistics) has been broken down into smaller nuggets of learning. We think of these nuggets as bite-sized pieces of learning.
+      image:
+        alignment: right
+        url: /img/Rocket.svg
+        hoverText: Rocket
   - type: footer
     content:
       id: register
