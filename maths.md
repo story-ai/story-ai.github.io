@@ -80,14 +80,4 @@ Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional 
 
 This course follows the UK’s Department of Education specification for GCSE level mathematics. &nbsp;Each topic (Number, Algebra, Ratio, Proportion and rates of change, Geometry and measures, Probability, Statistics) has been broken down into smaller nuggets of learning. We think of these nuggets as bite-sized pieces of learning.
 
-### Number
-
-### Algebra
-
-### Ratio, proportion and rates of change
-
-### Geometry and measures
-
-### Probability
-
-### Statistics
+**Number<br>Algebra<br>Ratio, proportion and rates of change<br>Geometry and measures<br>Probability<br>Statistics**
