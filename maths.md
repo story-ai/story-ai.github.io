@@ -19,19 +19,44 @@ parts:
   - type: section
     content:
       id: second
-      header: Artificial Intelligence
+      header: Learning Outcomes
       text:
         - >-
-          As you learn, our amazing artificial intelligence (AI) technology will
-          learn all about how you learn... It might be that you study better
-          using videos, maybe good and simple text is best for you or perhaps
-          you just need it said in a different way. AI technology will pick up
-          on this and make sure that you’ve always got the right type of content
-          to help you learn best.
+          1. Develop fluent knowledge, skills and understanding of mathematical
+          methods and concepts
+
+
+          2. Acquire, select and apply mathematical techniques to solve problems
+
+
+          3. Reason mathematically, make deductions and inferences and draw
+          conclusions
+
+
+          4. Comprehend, interpret and communicate mathematical information in a
+          variety of forms appropriate to the information and context.
       image:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
+  - type: section
+    content:
+      id:
+      header:
+      filled: false
+      social:
+        - icon:
+          link:
+      signupText:
+      namePlaceholder:
+      emailPlaceholder:
+      button:
+        text:
+        filled: false
+      nav:
+        - text:
+          link:
+      legalFooter:
   - type: footer
     content:
       id: register
