@@ -20,6 +20,7 @@ parts:
     content:
       id: second
       header: Learning Outcomes
+      filled: true
       text:
         - >-
           1. Develop fluent knowledge, skills and understanding of mathematical
@@ -39,7 +40,7 @@ parts:
   - type: section
     content:
       id: second
-      header: Learning Outcomes
+      header: Subject Content
       text:
         - >-
           This course follows the UK’s Department of Education specification for GCSE level mathematics.  Each topic (Number, Algebra, Ratio, Proportion and rates of change, Geometry and measures, Probability, Statistics) has been broken down into smaller nuggets of learning. We think of these nuggets as bite-sized pieces of learning.
