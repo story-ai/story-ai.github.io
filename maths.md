@@ -54,7 +54,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A Maths GCSE qualification is often a vital requirement for your future career, be that in the workplace or in further education. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
+#### A Maths GCSE can be a vital foundation for your future career. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
 
 ## &nbsp;
 
