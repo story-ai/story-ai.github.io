@@ -4,7 +4,7 @@ parts:
     content:
       id: header
       title:
-        - The future of learning
+        - Maths GCSE Course
       logo: /img/Story-logo.svg
       nav:
         items:
@@ -13,11 +13,9 @@ parts:
         cta:
           text: Sign up
           link: 'https://app.story-ai.com/'
-
   - type: body
     content:
       backgroundImage: /img/bg-01.png
-
   - type: section
     content:
       id: second
@@ -34,7 +32,6 @@ parts:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
-
   - type: footer
     content:
       id: register
@@ -57,12 +54,34 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-# Hello world
+A Maths GCSE qualification is often a vital requirement for your future career, be that in the workplace or in further education. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
 
-Some content could go here. This is sort of WYSWIG? Certainly I **can**&nbsp;add *some*&nbsp;formatting.
+Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
-I can add text in paragraphs. For example, lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id lobortis lacus, non venenatis neque. Praesent blandit diam eget magna pulvinar, in congue purus condimentum. Sed purus ante, imperdiet et mattis vitae, rhoncus eu nulla. Cras fermentum urna sit amet nulla tincidunt, id dictum risus efficitur. Nam vestibulum efficitur ante et semper. Duis facilisis lacus eget pellentesque dictum. In quis enim volutpat ante placerat mattis sit amet et diam. Morbi augue libero, sodales venenatis orci a, ultrices bibendum odio.
+Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
 
-I can add **pictures**:
+## Learning Outcomes
 
-![](/uploads/versions/gallery-02---x----1000-667x---.jpg)
+1. Develop fluent knowledge, skills and understanding of mathematical methods and concepts
+
+2. Acquire, select and apply mathematical techniques to solve problems
+
+3. Reason mathematically, make deductions and inferences and draw conclusions
+
+4. Comprehend, interpret and communicate mathematical information in a variety of forms appropriate to the information and context.
+
+## Subject Content
+
+This course follows the UK’s Department of Education specification for GCSE level mathematics. &nbsp;Each topic (Number, Algebra, Ratio, Proportion and rates of change, Geometry and measures, Probability, Statistics) has been broken down into smaller nuggets of learning. We think of these nuggets as bite-sized pieces of learning.
+
+### Number
+
+### Algebra
+
+### Ratio, proportion and rates of change
+
+### Geometry and measures
+
+### Probability
+
+### Statistics
