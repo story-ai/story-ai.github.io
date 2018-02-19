@@ -19,6 +19,8 @@ parts:
       logo: /img/Story-logo.svg
       nav:
         items:
+          - text: English Literature
+            link: /english-lit
           - text: Maths
             link: /maths
           - text: Login
