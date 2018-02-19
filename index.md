@@ -75,12 +75,10 @@ parts:
           qualifications, Soft Skills, Nanodegrees and English as a Foreign
           Language (EFL).
       image:
-        alignment: left
+        alignment: right
         url: /img/Laptop.svg
         hoverText: Laptop
-      cta:
-        text:
-        filled: false
+
       nav:
         - text:
           link:
