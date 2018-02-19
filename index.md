@@ -64,21 +64,20 @@ parts:
       filled: true
       text:
         - >-
-          We’ve designed Story for every learner; no matter your age, place or
-          learning style. It doesn’t matter what level you start at, we’ll do a
-          diagnostic to understand where you are and then CENTURY’s artificial
-          intelligence will tailor your course to suit you.
+          CENTURY Tech is our sister company and is the core technology that
+          underlies the Story platform. It’s been built by the best engineers,
+          scientists and teachers with one core mission; to improve learning
+          outcomes for all.
         - >-
-          Right now we have courses in Cryptocurrency, GCSE Maths and GCSE
-          English, and we will shortly be releasing a full suite of GCSE courses
-          that cover the core subjects. Our roadmap includes Vocational
-          qualifications, Soft Skills, Nanodegrees and English as a Foreign
-          Language (EFL).
+          Students access learning materials on the CENTURY platform and data on
+          their progress, achievement and areas for improvement are made
+          available via an individual dashboard. It uses artificial intelligence
+          (AI) technology, cognitive neuroscience and big data insights to
+          provide students with a personalised learning experience.
       image:
         alignment: right
         url: /img/Laptop.svg
         hoverText: Laptop
-
       nav:
         - text:
           link:
