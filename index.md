@@ -79,7 +79,7 @@ parts:
     content:
       id: Learners
       header: Lifelong Learning
-      filled: true
+      filled: false
       text:
         - >-
           We’ve designed Story for every learner; no matter your age, place or
@@ -100,7 +100,7 @@ parts:
     content:
       id: first
       header: GCSE Maths and English
-      filled: false
+      filled: true
       text:
         - >-
           Our GCSE Maths and English courses have been designed and curated by a
@@ -119,7 +119,7 @@ parts:
     content:
       id: second
       header: Artificial Intelligence
-      filled: true
+      filled: false
       text:
         - >-
           As you learn, our amazing artificial intelligence (AI) technology will
@@ -136,7 +136,7 @@ parts:
     content:
       id: fourth
       header: Getting started
-      filled: false
+      filled: true
       text:
         - >-
           Getting started on Story is free and easy. Simply create an account
