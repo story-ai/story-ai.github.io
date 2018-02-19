@@ -23,17 +23,20 @@ parts:
       filled: true
       text:
         - >-
-          1. Develop fluent knowledge, skills and understanding of mathematical
-          methods and concepts.
+          1. Read a wide range of classic literature fluently and with good
+          understanding, and make connections across their reading.
         - >-
-          2. Acquire, select and apply mathematical techniques to solve
-          problems.
+          2. Read in depth, critically and evaluatively, so that they are able
+          to discuss and explain their understanding and ideas.
+        - 3. Develop the habit of reading widely and often.
+        - 4. Appreciate the depth and power of the English literary heritage.
         - >-
-          3. Reason mathematically, make deductions and inferences and draw
-          conclusions.
+          5. Write accurately, effectively and analytically about their reading,
+          using Standard English.
         - >-
-          4. Comprehend, interpret and communicate mathematical information in a
-          variety of forms appropriate to the information and context.
+          6. Acquire and use a wide vocabulary, including the grammatical
+          terminology and other literary and linguistic terms they need to
+          criticise and analyse what they read.
       image:
         alignment: left
         url: /img/Rocket.svg
@@ -44,11 +47,11 @@ parts:
       header: Subject Content
       text:
         - >-
-          This course follows the UK’s Department of Education specification for
-          GCSE level mathematics.  Each topic (Number, Algebra, Ratio,
-          Proportion and rates of change, Geometry and measures, Probability,
-          Statistics) has been broken down into smaller nuggets of learning. We
-          think of these nuggets as bite-sized pieces of learning.
+          Story’s GCSE English Literature courses are completely aligned to the
+          essential subject content, each topic (detailed study, reading
+          comprehension and reading critically, writing) has been broken down
+          into smaller nuggets of learning. We think of these nuggets as
+          bite-sized pieces of learning.
       image:
         alignment: right
         url: /img/Rocket.svg
@@ -75,10 +78,8 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A Maths GCSE can be a vital foundation for your future career. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
+#### Our English Literature GCSE courses gives students an opportunity to explore the plot, characters, themes, contexts and ideas within either ‘An Inspector Calls’ or 'Macbeth' (each is a separate course). Focusing on the assessment objectives used in GCSE examinations across exam boards.
 
-## &nbsp;
+These courses have been created by CENTURY’s team of professional GCSE teachers, &nbsp;following the UK Department of Education curriculum. See below for learning objectives and subject content.
 
-Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
-
-Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
+As always, Story’s big data and artificial intelligence software will be running in the background as you progress through your course to make sure you always have the most helpful learning materials at your fingertips. We all learn in a different way, so the system ‘learns how you learn’, allowing it to pick the best materials to match your unique style.
