@@ -60,7 +60,7 @@ parts:
   - type: section
     content:
       id: second
-      header: What is CENTURY Tech?
+      header: We're powered by CENTURY
       filled: true
       text:
         - >-
