@@ -35,7 +35,7 @@ parts:
           alt: Powered by CENTURY
   - type: features
     content:
-      id: How it Works
+      id: first
       header: How it works
       subtitle:
       content:
@@ -59,16 +59,26 @@ parts:
               you've always got the knowledge at the top of your mind.
   - type: section
     content:
-      id:
+      id: second
       header: What is CENTURY Tech?
       filled: true
-      social:
-        - icon:
-          link:
-      signupText:
-      namePlaceholder:
-      emailPlaceholder:
-      button:
+      text:
+        - >-
+          We’ve designed Story for every learner; no matter your age, place or
+          learning style. It doesn’t matter what level you start at, we’ll do a
+          diagnostic to understand where you are and then CENTURY’s artificial
+          intelligence will tailor your course to suit you.
+        - >-
+          Right now we have courses in Cryptocurrency, GCSE Maths and GCSE
+          English, and we will shortly be releasing a full suite of GCSE courses
+          that cover the core subjects. Our roadmap includes Vocational
+          qualifications, Soft Skills, Nanodegrees and English as a Foreign
+          Language (EFL).
+      image:
+        alignment: left
+        url: /img/Laptop.svg
+        hoverText: Laptop
+      cta:
         text:
         filled: false
       nav:
@@ -77,7 +87,7 @@ parts:
       legalFooter:
   - type: section
     content:
-      id: Learners
+      id: third
       header: Lifelong Learning
       filled: false
       text:
@@ -98,7 +108,7 @@ parts:
         hoverText: Laptop
   - type: section
     content:
-      id: first
+      id: forth
       header: GCSE Maths and English
       filled: true
       text:
@@ -117,7 +127,7 @@ parts:
         filled: true
   - type: section
     content:
-      id: second
+      id: fifth
       header: Artificial Intelligence
       filled: false
       text:
@@ -134,7 +144,7 @@ parts:
         hoverText: Rocket
   - type: section
     content:
-      id: fourth
+      id: sixth
       header: Getting started
       filled: true
       text:
