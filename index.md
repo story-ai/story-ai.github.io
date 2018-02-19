@@ -17,8 +17,13 @@ parts:
       image:
       backgroundImage: /img/bg-01.png
       logo: /img/Story-logo.svg
+      url: /home
       nav:
         items:
+          - text: English Literature
+            link: /english-lit
+          - text: Maths
+            link: /maths
           - text: Login
             link: 'https://app.story-ai.com/'
         cta:
@@ -30,7 +35,7 @@ parts:
           alt: Powered by CENTURY
   - type: features
     content:
-      id: How it Works
+      id: first
       header: How it works
       subtitle:
       content:
@@ -54,9 +59,35 @@ parts:
               you've always got the knowledge at the top of your mind.
   - type: section
     content:
-      id: Learners
-      header: Lifelong Learning
+      id: second
+      header: What is CENTURY Tech?
       filled: true
+      text:
+        - >-
+          CENTURY Tech is our sister company and is the core technology that
+          underlies the Story platform. It’s been built by the best engineers,
+          scientists and teachers with one core mission; to improve learning
+          outcomes for all.
+        - >-
+          Students access learning materials on the CENTURY platform and data on
+          their progress, achievement and areas for improvement are made
+          available via an individual dashboard. It uses artificial intelligence
+          (AI) technology, cognitive neuroscience and big data insights to
+          provide students with a personalised learning experience.
+
+      video:
+        alignment: right
+        url: https://www.youtube.com/embed/MKZF39f31po?rel=0&amp;controls=1&amp;showinfo=0
+
+      nav:
+        - text:
+          link:
+      legalFooter:
+  - type: section
+    content:
+      id: third
+      header: Lifelong Learning
+      filled: false
       text:
         - >-
           We’ve designed Story for every learner; no matter your age, place or
@@ -75,9 +106,9 @@ parts:
         hoverText: Laptop
   - type: section
     content:
-      id: first
+      id: forth
       header: GCSE Maths and English
-      filled: false
+      filled: true
       text:
         - >-
           Our GCSE Maths and English courses have been designed and curated by a
@@ -94,9 +125,9 @@ parts:
         filled: true
   - type: section
     content:
-      id: second
+      id: fifth
       header: Artificial Intelligence
-      filled: true
+      filled: false
       text:
         - >-
           As you learn, our amazing artificial intelligence (AI) technology will
@@ -111,9 +142,9 @@ parts:
         hoverText: Rocket
   - type: section
     content:
-      id: fourth
+      id: sixth
       header: Getting started
-      filled: false
+      filled: true
       text:
         - >-
           Getting started on Story is free and easy. Simply create an account

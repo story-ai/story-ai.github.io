@@ -3,17 +3,14 @@
 {% capture video %}
 
         <div class="col-md text-center">
-            <iframe width="560" 
-                    height="315" 
+            <iframe
                     src="{{section.video.url}}" 
-                    class="img-fluid img-device mw-330" 
+                    class="img-fluid img-device" 
                     frameborder="0" 
                     allow="autoplay; encrypted-media" 
                     allowfullscreen
-                    alt="{{section.image.hoverText}}" 
-                    class="img-fluid img-device mw-330" 
                     data-enter="fadein" 
-                    style="transform: translateY(70px)"
+                    style="transform: translateY(70px); height:100%; width:100%"
                     ></iframe>
         </div>
 {% endcapture %}
@@ -38,7 +35,13 @@
     id="{{section.id}}"
 >
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row 
+        {% if section.video %}
+            align-items-stretch
+        {% else %}
+            align-items-center
+        {% endif %}
+        ">
             {% if section.image and section.image.alignment == "left" %} 
                 {{image}}
             {% endif %}
