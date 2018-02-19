@@ -59,6 +59,24 @@ parts:
               you've always got the knowledge at the top of your mind.
   - type: section
     content:
+      id:
+      header: What is CENTURY Tech?
+      filled: true
+      social:
+        - icon:
+          link:
+      signupText:
+      namePlaceholder:
+      emailPlaceholder:
+      button:
+        text:
+        filled: false
+      nav:
+        - text:
+          link:
+      legalFooter:
+  - type: section
+    content:
       id: Learners
       header: Lifelong Learning
       filled: true
