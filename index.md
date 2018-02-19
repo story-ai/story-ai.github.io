@@ -17,7 +17,7 @@ parts:
       image:
       backgroundImage: /img/bg-01.png
       logo: /img/Story-logo.svg
-      url: /
+      url: /home
       nav:
         items:
           - text: English Literature
