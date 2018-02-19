@@ -64,8 +64,8 @@ parts:
       filled: true
       text:
         - >-
-          CENTURY Tech is our sister company and is the core technology that
-          underlies the Story platform. It’s been built by the best engineers,
+          CENTURY Tech is the core technology that underlies the Story platform
+          (and our sister company). It’s been built by the best engineers,
           scientists and teachers with one core mission; to improve learning
           outcomes for all.
         - >-
@@ -74,11 +74,10 @@ parts:
           available via an individual dashboard. It uses artificial intelligence
           (AI) technology, cognitive neuroscience and big data insights to
           provide students with a personalised learning experience.
-
       video:
         alignment: right
-        url: https://www.youtube.com/embed/MKZF39f31po?rel=0&amp;controls=1&amp;showinfo=0
-
+        url: >-
+          https://www.youtube.com/embed/MKZF39f31po?rel=0&amp;controls=1&amp;showinfo=0
       nav:
         - text:
           link:
@@ -175,3 +174,4 @@ parts:
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
+
