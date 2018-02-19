@@ -1,7 +1,24 @@
 {% assign section = include.content %}
 
+{% capture video %}
+
+        <div class="col-md text-center">
+            <iframe width="560" 
+                    height="315" 
+                    src="{{section.video.url}}" 
+                    class="img-fluid img-device mw-330" 
+                    frameborder="0" 
+                    allow="autoplay; encrypted-media" 
+                    allowfullscreen
+                    alt="{{section.image.hoverText}}" 
+                    class="img-fluid img-device mw-330" 
+                    data-enter="fadein" 
+                    style="transform: translateY(70px)"
+                    ></iframe>
+        </div>
+{% endcapture %}
+
 {% capture image %}
-    {% if section.image %}
         <div class="col-md text-center">
             <img src="{{section.image.url}}"
                     alt="{{section.image.hoverText}}" 
@@ -9,7 +26,6 @@
                     data-enter="fadein" 
                     style="transform: translateY(70px)">
         </div>
-    {% endif %}
 {% endcapture %}
 
 <div class="block block-main-feature"
@@ -25,6 +41,9 @@
         <div class="row align-items-center">
             {% if section.image and section.image.alignment == "left" %} 
                 {{image}}
+            {% endif %}
+            {% if section.video and section.video.alignment == "left" %} 
+                {{video}}
             {% endif %}
             <div class="col">
                 <h2
@@ -86,7 +105,9 @@
             {% if section.image and section.image.alignment == "right" %} 
                 {{image}}
             {% endif %}
-
+            {% if section.video and section.video.alignment == "right" %} 
+                {{video}}
+            {% endif %}
 
         </div>
     </div>

@@ -30,9 +30,9 @@ parts:
           you just need it said in a different way. AI technology will pick up
           on this and make sure that you’ve always got the right type of content
           to help you learn best.
-      image:
+      video:
         alignment: left
-        url: /img/Rocket.svg
+        url: https://www.youtube.com/embed/MKZF39f31po?rel=0&amp;controls=1&amp;showinfo=0
         hoverText: Rocket
 
   - type: footer
