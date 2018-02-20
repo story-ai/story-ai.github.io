@@ -12,7 +12,7 @@ parts:
         style.
       buttons:
         - text: Find out more
-          link: '#footer'
+          link: '#register'
           filled: false
       image:
       backgroundImage: /img/bg-01.png
