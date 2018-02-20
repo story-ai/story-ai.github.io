@@ -19,24 +19,22 @@ parts:
   - type: section
     content:
       id: second
-      header: Learning Outcomes
+      header: Subject content
       filled: true
       text:
         - >-
-          1. Read a wide range of classic literature fluently and with good
-          understanding, and make connections across their reading.
-        - >-
-          2. Read in depth, critically and evaluatively, so that they are able
-          to discuss and explain their understanding and ideas.
-        - 3. Develop the habit of reading widely and often.
-        - 4. Appreciate the depth and power of the English literary heritage.
-        - >-
-          5. Write accurately, effectively and analytically about their reading,
-          using Standard English.
-        - >-
-          6. Acquire and use a wide vocabulary, including the grammatical
-          terminology and other literary and linguistic terms they need to
-          criticise and analyse what they read.
+          Story’s GCSE English Literature courses are completely aligned to the
+          essential subject content, each topic (detailed study, reading
+          comprehension and reading critically, writing) has been broken down
+          into smaller nuggets of learning. We think of these nuggets as
+          bite-sized pieces of learning. The following courses are available in
+          this subject area:
+        - Creating Writing
+        - Writing
+        - 'Language, Structure & Tense'
+        - Reading (Fiction)
+        - Reading (Non-fiction)
+        - 'Spelling, Pronunciation & Grammar (SPaG)'
       image:
         alignment: left
         url: /img/Rocket.svg
@@ -78,12 +76,10 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### Our English Literature GCSE courses gives students an opportunity to explore the plot, characters, themes, contexts and ideas within either ‘An Inspector Calls’ or 'Macbeth' (each is a separate course). Focusing on the assessment objectives used in GCSE examinations across exam boards.
+#### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
 
 &nbsp;
 
-These courses have been created by CENTURY’s team of professional GCSE teachers, following the UK Department of Education curriculum. See below for learning objectives and subject content.
+Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
-&nbsp;
-
-As always, Story’s big data and artificial intelligence software will be running in the background as you progress through your course to make sure you always have the most helpful learning materials at your fingertips. We all learn in a different way, so the system ‘learns how you learn’, allowing it to pick the best materials to match your unique style.
+And like all courses on Story, our powerful software will tailor the content around your learning style. At the beginning of the course, you’ll take a quick diagnostic test to determine your current level and then throughout the course you’ll be given the opportunity to test your skills with questions and quizzes, each strengthening your knowledge and understanding.
