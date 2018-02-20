@@ -20,12 +20,12 @@ parts:
       url: /home
       nav:
         items:
+          - text: English Language
+            link: /english-language
           - text: English Literature
-            link: /english-lit
+            link: /english-literature
           - text: Maths
             link: /maths
-          - text: Login
-            link: 'https://app.story-ai.com/'
         cta:
           text: More info
           link: '#register'
@@ -119,14 +119,12 @@ parts:
         url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
-       - 
-         text: Maths
-         link: '/maths'
-         filled: true
-       - 
-         text: English
-         link: '/english-lit'
-         filled: true
+        - text: Maths
+          link: /maths
+          filled: true
+        - text: English
+          link: /english-lit
+          filled: true
   - type: section
     content:
       id: fifth
