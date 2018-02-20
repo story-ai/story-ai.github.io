@@ -39,21 +39,6 @@ parts:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
-  - type: section
-    content:
-      id: second
-      header: Subject Content
-      text:
-        - >-
-          Story’s GCSE English Literature courses are completely aligned to the
-          essential subject content, each topic (detailed study, reading
-          comprehension and reading critically, writing) has been broken down
-          into smaller nuggets of learning. We think of these nuggets as
-          bite-sized pieces of learning.
-      image:
-        alignment: right
-        url: /img/Rocket.svg
-        hoverText: Rocket
   - type: footer
     content:
       id: register
@@ -77,8 +62,6 @@ parts:
 ---
 
 #### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
-
-&nbsp;
 
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
