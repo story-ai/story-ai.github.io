@@ -119,9 +119,14 @@ parts:
         url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
-        text: More info
-        link: '#register'
-        filled: true
+       - 
+         text: Maths
+         link: '/maths'
+         filled: true
+       - 
+         text: English
+         link: '/english-lit'
+         filled: true
   - type: section
     content:
       id: fifth
