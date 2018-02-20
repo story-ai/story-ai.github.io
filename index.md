@@ -142,7 +142,7 @@ parts:
   - type: footer
     content:
       id: register
-      header: The education landscape is changing... Find out how
+      header: Sign-up to find out more
       filled: false
       social:
         - icon: facebook
