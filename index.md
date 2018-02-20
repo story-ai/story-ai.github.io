@@ -139,31 +139,19 @@ parts:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
-  - type: section
-    content:
-      id: sixth
-      header: Getting started
-      filled: true
-      text:
-        - >-
-          Getting started on Story is free and easy. Simply create an account
-          and then choose a course - some are free and some aren't, but all are
-          personalised to suite your way of learning!
-      cta:
-        text: Start here
-        link: 'https://app.story-ai.com/'
-        filled: false
   - type: footer
     content:
       id: register
-      header: Stay up-to-date
+      header: The education landscape is changing... Find out how
       filled: false
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
-      signupText: Subscribe to our newsletter to receive exclusive content.
+      signupText: >-
+        We're putting the finishing touches to our learning environment. Sign up
+        to our emails to keep up to date with our launch
       namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
