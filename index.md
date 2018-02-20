@@ -11,8 +11,8 @@ parts:
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Get started
-          link: 'https://app.story-ai.com/'
+        - text: Find out more
+          link: '#footer'
           filled: false
       image:
       backgroundImage: /img/bg-01.png
