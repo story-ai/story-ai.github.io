@@ -27,8 +27,8 @@ parts:
           - text: Login
             link: 'https://app.story-ai.com/'
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: More info
+          link: '#register'
       sponsors:
         - url:
           img: /img/Century-logo-white.png
@@ -119,8 +119,8 @@ parts:
         url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
-        text: Get started
-        link: 'https://app.story-ai.com/'
+        text: More info
+        link: '#register'
         filled: true
   - type: section
     content:
