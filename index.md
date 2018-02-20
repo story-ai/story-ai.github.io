@@ -167,4 +167,3 @@ parts:
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
-

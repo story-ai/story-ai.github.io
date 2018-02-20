@@ -82,25 +82,51 @@
                 {% endif %}
 
                 {% if section.cta %}
+
                     <p>
-                        <a href="{{section.cta.link}}" class="btn 
-                            {% if section.filled %}
-                                {% if section.cta.filled %}
-                                    btn-light
+                        {% if section.cta.text %}
+                            {% assign cta = section.cta %}
+
+                            <a href="{{cta.link}}" class="btn 
+                                {% if section.filled %}
+                                    {% if cta.filled %}
+                                        btn-light
+                                    {% else %}
+                                        btn-outline-light
+                                    {% endif %}
                                 {% else %}
-                                    btn-outline-light
+                                    {% if cta.filled %}
+                                        btn-dark
+                                    {% else %}
+                                        btn-outline-dark
+                                    {% endif %}
                                 {% endif %}
-                            {% else %}
-                                {% if section.cta.filled %}
-                                    btn-dark
+                            ">
+                                {{cta.text}}
+                            </a>
+                        {% else %}
+                            {% for cta in section.cta %}
+                            <a href="{{cta.link}}" class="btn 
+                                {% if section.filled %}
+                                    {% if cta.filled %}
+                                        btn-light
+                                    {% else %}
+                                        btn-outline-light
+                                    {% endif %}
                                 {% else %}
-                                    btn-outline-dark
+                                    {% if cta.filled %}
+                                        btn-dark
+                                    {% else %}
+                                        btn-outline-dark
+                                    {% endif %}
                                 {% endif %}
-                            {% endif %}
-                        ">
-                            {{section.cta.text}}
-                        </a>
+                            ">
+                                {{cta.text}}
+                            </a>
+                            {% endfor %}
+                        {% endif %} 
                     </p>
+
                 {% endif %}
                 
             </div>
