@@ -142,7 +142,7 @@ parts:
   - type: footer
     content:
       id: register
-      header: Story is coming soon. Sign-up to find out more
+      header: Coming soon... Sign-up to find out more
       filled: false
       social:
         - icon: facebook
