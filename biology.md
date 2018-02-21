@@ -23,28 +23,28 @@ parts:
       filled: true
       text:
         - >-
-          1. Understand how life processes depend on molecules whose structure
-          is related to their function.
+          1. Understand life processes depend on molecules whose structure is
+          related to their function.
         - |-
-          2. Understand how the fundamental units of living organisms are cells.
+          2. Appreciate the fundamental units of living organisms are cells.
           .
         - >-
-          3. Understand how living organisms may form populations of single
-          species, communities of many species and ecosystems,
+          3. Understand living organisms may form populations of single species,
+          communities of many species and ecosystems,
         - >-
-          4. Understand how living organisms are interdependent and show
-          adaptations to their environment.
-        - 5. Understand how life on Earth is dependent on photosynthesis.
+          4. Appreciate living organisms are interdependent and show adaptations
+          to their environment.
+        - 5. Understand life on Earth is dependent on photosynthesis.
         - >-
-          6. Understand how organic compounds are used as fuels in cellular
+          6. Appreciate organic compounds are used as fuels in cellular
           respiration.
         - >-
-          7. Understand how the chemicals in ecosystems are continually cycling
+          7. Understand the chemicals in ecosystems are continually cycling
           through the natural world.
         - >-
-          8. Understand how the characteristics of a living organism are
-          influenced by its genome and its interaction with the environment.
-        - 9. Understand how evolution occurs by a process of natural selection.
+          8. Appreciate the characteristics of a living organism are influenced
+          by its genome and its interaction with the environment.
+        - 9. Understand evolution occurs by a process of natural selection.
       image:
         alignment: left
         url: /img/Rocket.svg
@@ -88,9 +88,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application. &nbsp;Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
-
-&nbsp;
+#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.  Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
