@@ -38,7 +38,7 @@ parts:
           conventions for reading, writing and spoken language.
       image:
         alignment: left
-        url: /img/Learningoutcomes.svg
+        url: /img/Learningoutcome.svg
         hoverText: Desk
   - type: section
     content:
@@ -86,8 +86,6 @@ parts:
 ---
 
 #### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
-
-&nbsp;
 
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
