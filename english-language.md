@@ -59,6 +59,24 @@ parts:
         - text: Back to the top
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
+  - type:
+    content:
+      id:
+      header:
+      filled: false
+      social:
+        - icon:
+          link:
+      signupText:
+      namePlaceholder:
+      emailPlaceholder:
+      button:
+        text:
+        filled: false
+      nav:
+        - text:
+          link:
+      legalFooter:
 ---
 
 #### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
