@@ -30,8 +30,7 @@ parts:
           .
         - >-
           3. Understand how living organisms may form populations of single
-          species, communities of many species and ecosystems, interacting with
-          each other, with the environment and with humans.
+          species, communities of many species and ecosystems,
         - >-
           4. Understand how living organisms are interdependent and show
           adaptations to their environment.
@@ -89,9 +88,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application. &nbsp;Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
-
-&nbsp;
+#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.  Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
