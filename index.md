@@ -114,9 +114,9 @@ parts:
       filled: true
       text:
         - >-
-          Our GCSE Maths and English courses have been designed and curated by a
-          team of professional teachers to meet the exact requirements of the UK
-          national curriculum. New courses are currently being built so check
+          Our GCSE English and Science courses have been designed and curated by
+          a team of professional teachers to meet the exact requirements of the
+          UK national curriculum. New courses are currently being built so check
           back soon for the latest subjects.
       image:
         alignment: right
