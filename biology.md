@@ -70,11 +70,13 @@ parts:
       header: Subject Content
       text:
         - >-
-          This course follows the UK’s Department of Education specification for
-          GCSE level mathematics.  Each topic (Number, Algebra, Ratio,
-          Proportion and rates of change, Geometry and measures, Probability,
-          Statistics) has been broken down into smaller nuggets of learning. We
-          think of these nuggets as bite-sized pieces of learning.
+          Story’s GCSE biology course is completely aligned to the essential
+          subject content as set out by the Department of Education.  Each topic
+          (Cell biology; Transport systems; Health, disease and the development
+          of medicines; Coordination and control; Photosynthesis; Ecosystems;
+          Inheritance, variation and evolution) is presented in the platform as
+          a strand and each sub-topic is broken down further in to a nugget of
+          bite-sized learning.
       image:
         alignment: right
         url: /img/Rocket.svg
@@ -101,9 +103,9 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application. &nbsp;Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
+#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.  Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
 
-## &nbsp;
+##
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
