@@ -47,7 +47,7 @@ parts:
         - 9. Understand evolution occurs by a process of natural selection.
       image:
         alignment: left
-        url: /img/Learningoutome.svg
+        url: /img/Learningoutcome.svg
         hoverText: Desk
   - type: section
     content:
