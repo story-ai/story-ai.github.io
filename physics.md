@@ -23,8 +23,8 @@ parts:
       filled: true
       text:
         - >-
-          1. Understand the use of models, such as the particle model of matter
-          or the wave models of light and of sound.
+          1. Understand use of models, such as the the wave models of light and
+          of sound.
         - >-
           2. Appreciate the concept of cause and effect in explaining such links
           as those between force and acceleration.
@@ -34,8 +34,8 @@ parts:
           3. Understand the phenomena of ‘action at a distance’ and the related
           concept of the field.
         - >-
-          4. Appreciate that differences are the drivers of change, between
-          pressures or temperatures or electrical potentials, .
+          4. Appreciate that differences are the drivers of change, such as
+          between pressures or temperatures or electrical potentials, .
         - >-
           5. Understand that proportionality is an important aspect of many
           models in science.
@@ -86,6 +86,8 @@ parts:
 ---
 
 #### Physics is the science of the fundamental concepts of field, force, radiation and particle structures, which are inter-linked to form unified models of the behaviour of the material universe. A GCSE in physics enables students to understand how, through the ideas of physics, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.
+
+&nbsp;
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
