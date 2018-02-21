@@ -120,7 +120,7 @@ parts:
           back soon for the latest subjects.
       image:
         alignment: right
-        url: /img/blackboard.svg
+        url: /img/ereader.svg
         hoverText: Learning Pathway
       cta:
         - text: English Language
