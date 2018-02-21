@@ -39,8 +39,8 @@ parts:
           criticise and analyse what they read.
       image:
         alignment: left
-        url: /img/Rocket.svg
-        hoverText: Rocket
+        url: /img/Learningoutcome.svg
+        hoverText: Desk
   - type: section
     content:
       id: second
@@ -79,6 +79,8 @@ parts:
 ---
 
 #### Our English Literature GCSE courses gives students an opportunity to explore the plot, characters, themes, contexts and ideas within either ‘An Inspector Calls’ or 'Macbeth' (each is a separate course). Focusing on the assessment objectives used in GCSE examinations across exam boards.
+
+&nbsp;
 
 These courses have been created by CENTURY’s team of professional GCSE teachers, following the UK Department of Education curriculum. See below for learning objectives and subject content.
 
