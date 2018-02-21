@@ -4,7 +4,7 @@ parts:
     content:
       id: header
       title:
-        - Maths GCSE Course
+        - Biology GCSE Course
       logo: /img/Story-logo.svg
       nav:
         items:
@@ -23,17 +23,43 @@ parts:
       filled: true
       text:
         - >-
-          1. Develop fluent knowledge, skills and understanding of mathematical
-          methods and concepts.
+          1. Understand how life processes depend on molecules whose structure
+          is related to their function.
         - >-
-          2. Acquire, select and apply mathematical techniques to solve
-          problems.
+          2. Understand how the fundamental units of living organisms are cells,
+          which may be part of highly adapted structures including tissues,
+          organs and organ systems, enabling living processes to be performed
+          effectively.
+
+          .
         - >-
-          3. Reason mathematically, make deductions and inferences and draw
-          conclusions.
+          3. Understand how living organisms may form populations of single
+          species, communities of many species and ecosystems, interacting with
+          each other, with the environment and with humans in many different
+          ways.
         - >-
           4. Comprehend, interpret and communicate mathematical information in a
-          variety of forms appropriate to the information and context.
+          variety of forms appropriate to the information and context.Understand
+          how living organisms are interdependent and show adaptations to their
+          environment.
+        - >-
+          5. Understand how life on Earth is dependent on photosynthesis in
+          which green plants and algae trap light from the Sun to fix carbon
+          dioxide and combine it with hydrogen from water to make organic
+          compounds and oxygen.
+        - >-
+          6. Understand how organic compounds are used as fuels in cellular
+          respiration to allow the other chemical reactions necessary for life.
+        - >-
+          7. Understand how the chemicals in ecosystems are continually cycling
+          through the natural world.
+        - >-
+          8. Understand how the characteristics of a living organism are
+          influenced by its genome and its interaction with the environment.
+        - >-
+          9. Understand how evolution occurs by a process of natural selection
+          and accounts both for biodiversity and how organisms are all related
+          to varying degrees.
       image:
         alignment: left
         url: /img/Rocket.svg
@@ -75,10 +101,10 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A Maths GCSE can be a vital foundation for your future career. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
+#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application. &nbsp;Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
 
 ## &nbsp;
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
-Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
+Our Biology GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
