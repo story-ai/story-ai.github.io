@@ -87,6 +87,8 @@ parts:
 
 #### Physics is the science of the fundamental concepts of field, force, radiation and particle structures, which are inter-linked to form unified models of the behaviour of the material universe. A GCSE in physics enables students to understand how, through the ideas of physics, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.
 
+&nbsp;
+
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
 Our Physics GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
