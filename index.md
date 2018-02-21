@@ -123,11 +123,20 @@ parts:
         url: /img/blackboard.svg
         hoverText: Learning Pathway
       cta:
-        - text: Maths
-          link: /maths
+        - text: English Language
+          link: /english-language
           filled: true
         - text: English Literature
           link: /english-literature
+          filled: true
+        - text: Biology
+          link: /Biology
+          filled: true
+        - text: Chemistry
+          link: /Chemistry
+          filled: true
+        - text: Physics
+          link: /Physics
           filled: true
   - type: section
     content:
