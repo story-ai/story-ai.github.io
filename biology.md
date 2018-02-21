@@ -25,39 +25,27 @@ parts:
         - >-
           1. Understand how life processes depend on molecules whose structure
           is related to their function.
-        - >-
-          2. Understand how the fundamental units of living organisms are cells,
-          which may be part of highly adapted structures including tissues,
-          organs and organ systems, enabling living processes to be performed
-          effectively.
-
+        - |-
+          2. Understand how the fundamental units of living organisms are cells.
           .
         - >-
           3. Understand how living organisms may form populations of single
           species, communities of many species and ecosystems, interacting with
-          each other, with the environment and with humans in many different
-          ways.
+          each other, with the environment and with humans.
         - >-
           4. Understand how living organisms are interdependent and show
           adaptations to their environment.
-        - >-
-          5. Understand how life on Earth is dependent on photosynthesis in
-          which green plants and algae trap light from the Sun to fix carbon
-          dioxide and combine it with hydrogen from water to make organic
-          compounds and oxygen.
+        - 5. Understand how life on Earth is dependent on photosynthesis.
         - >-
           6. Understand how organic compounds are used as fuels in cellular
-          respiration to allow the other chemical reactions necessary for life.
+          respiration.
         - >-
           7. Understand how the chemicals in ecosystems are continually cycling
           through the natural world.
         - >-
           8. Understand how the characteristics of a living organism are
           influenced by its genome and its interaction with the environment.
-        - >-
-          9. Understand how evolution occurs by a process of natural selection
-          and accounts both for biodiversity and how organisms are all related
-          to varying degrees.
+        - 9. Understand how evolution occurs by a process of natural selection.
       image:
         alignment: left
         url: /img/Rocket.svg
@@ -101,9 +89,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application. &nbsp;Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
-
-&nbsp;
+#### A GCSE in biology enables students to understand how, through the ideas of biology, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.  Biological information is used to help humans improve their own lives and strive to create a sustainable world for future generations.
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
