@@ -44,8 +44,8 @@ parts:
           mathematical form.
       image:
         alignment: left
-        url: /img/Rocket.svg
-        hoverText: Rocket
+        url: /img/Learningoutcome.svg
+        hoverText: Desk
   - type: section
     content:
       id: second
