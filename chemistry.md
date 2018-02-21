@@ -4,7 +4,7 @@ parts:
     content:
       id: header
       title:
-        - Maths GCSE Course
+        - Chemistry GCSE Course
       logo: /img/Story-logo.svg
       nav:
         items:
@@ -75,10 +75,10 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### A Maths GCSE can be a vital foundation for your future career. Better yet, studying maths to GCSE level will give you a solid foundation in numeracy, a key skill in everyday life as well as in science, technology and engineering.
+#### Chemistry is the science of the composition, structure, properties and reactions of matter, understood in terms of atoms, atomic particles and the way they are arranged and link together.&nbsp; Students taking this GCSE cousre will be helped to appreciate the achievements of chemistry in showing how the complex and diverse phenomena of both the natural and man-made worlds can be described in terms of a small number of key ideas which are of universal application.
 
 ## &nbsp;
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
-Our Maths GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
+Our Chemistry GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
