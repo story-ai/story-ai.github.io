@@ -110,7 +110,7 @@ parts:
   - type: section
     content:
       id: forth
-      header: GCSE Maths and English
+      header: GCSE English and Science
       filled: true
       text:
         - >-
