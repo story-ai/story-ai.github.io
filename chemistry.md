@@ -92,7 +92,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### Chemistry is the science of the composition, structure, properties and reactions of matter, understood in terms of atoms, atomic particles and the way they are arranged and link together.&nbsp; Students taking this GCSE course will be helped to appreciate the achievements of chemistry in showing how the complex and diverse phenomena of both the natural and man-made worlds can be described in terms of a small number of key ideas which are of universal application.
+#### Chemistry is the science of the composition, structure, properties and reactions of matter, understood in terms of atoms, atomic particles and the way they are arranged and link together.&nbsp; Students completing this GCSE course will appreciate the achievements of chemistry in showing how the complex and diverse phenomena of both the natural and man-made worlds can be described in terms of a small number of key ideas which are of universal application.
 
 # &nbsp;
 
