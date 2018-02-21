@@ -24,8 +24,10 @@ parts:
             link: /english-language
           - text: English Literature
             link: /english-literature
-          - text: Maths
-            link: /maths
+          - text: Biology
+            link: /biology
+          - text:
+            link:
         cta:
           text: More info
           link: '#register'
@@ -165,3 +167,4 @@ parts:
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
+
