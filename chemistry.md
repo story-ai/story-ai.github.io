@@ -49,8 +49,8 @@ parts:
           therefore be neither created or destroyed.
       image:
         alignment: left
-        url: /img/Rocket.svg
-        hoverText: Rocket
+        url: /img/Learningoutcome.svg
+        hoverText: Desk
   - type: section
     content:
       id: second
