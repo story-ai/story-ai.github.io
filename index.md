@@ -26,8 +26,8 @@ parts:
             link: /english-literature
           - text: Biology
             link: /biology
-          - text:
-            link:
+          - text: Chemistry
+            link: /chemistry
         cta:
           text: More info
           link: '#register'
