@@ -126,8 +126,8 @@ parts:
         - text: Maths
           link: /maths
           filled: true
-        - text: English
-          link: /english-lit
+        - text: English Literature
+          link: /english-literature
           filled: true
   - type: section
     content:
