@@ -28,6 +28,8 @@ parts:
             link: /biology
           - text: Chemistry
             link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
           text: More info
           link: '#register'
