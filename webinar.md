@@ -23,6 +23,7 @@ parts:
         firstNamePlaceholder: First Name
         lastNamePlaceholder: Last Name
         emailPlaceholder: Email
+        optinText: I would like to hear about other Story webinars in the future
   - type: signup
     content:
       id: second
