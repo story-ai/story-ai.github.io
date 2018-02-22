@@ -33,6 +33,24 @@ parts:
         - text: Back to the top
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
+  - type: body
+    content:
+      id:
+      header:
+      filled: false
+      social:
+        - icon:
+          link:
+      signupText:
+      namePlaceholder:
+      emailPlaceholder:
+      button:
+        text:
+        filled: false
+      nav:
+        - text:
+          link:
+      legalFooter:
 ---
 
 **What is Century?**
