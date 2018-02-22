@@ -176,6 +176,8 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
+        - text: FAQ
+          link: /Faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
