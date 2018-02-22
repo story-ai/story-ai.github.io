@@ -13,17 +13,6 @@ parts:
         cta:
           text: Sign up
           link: 'https://app.story-ai.com/'
-  - type: body
-    content:
-      backgroundImage: /img/bg-01.png
-      form:
-        u: 2db8dc8668056c8bb3cf91afb
-        id: be8c131363
-        button_text: Sign Up
-        firstNamePlaceholder: First Name
-        lastNamePlaceholder: Last Name
-        emailPlaceholder: Email
-        optinText: I would like to hear about other Story webinars in the future
   - type: footer
     content:
       id: register
