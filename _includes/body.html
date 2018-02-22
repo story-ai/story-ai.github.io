@@ -1,5 +1,64 @@
 {% assign section = include.content %}
 
+{% capture form %}
+    {% if section.form %}
+    {% assign form = section.form %}
+
+        <div id="mc_embed_signup">
+            <form action="https://story-ai.us17.list-manage.com/subscribe/post?u={{form.u}}&amp;id={{form.id}}" method="post" id="mc-embedded-subscribe-form"
+                name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div class="row justify-content-left" style="padding: 10px 0 ">
+                    <div class="col-md-8">
+                        <label class="sr-only" for="inlineFormInput">
+                            {{form.emailPlaceholder}}
+                        </label>
+                        <input type="email" value="" name="EMAIL" class="form-control form-control-lg mb-2 mb-md-0" id="mce-EMAIL" placeholder="{{form.emailPlaceholder}}">
+                    </div>
+                </div>
+                <div class="row justify-content-left" style="padding: 10px 0">
+                    <div class="col-md-4">
+                        <label class="sr-only" for="inlineFormInput">
+                            {{form.firstNamePlaceholder}}
+                        </label>
+                        <input type="text" value="" name="FNAME" class="form-control form-control-lg mb-2 mb-md-0" id="mce-FNAME" placeholder="{{form.firstNamePlaceholder}}">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="sr-only" for="inlineFormInput">
+                            {{form.lastNamePlaceholder}}
+                        </label>
+                        <input type="text" value="" name="LNAME" class="form-control form-control-lg mb-2 mb-md-0" id="mce-LNAME" placeholder="{{form.lastNamePlaceholder}}">
+                    </div>
+                </div>
+                <div class="row justify-content-left" style="padding: 10px 0">
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                        <input type="text" name="b_{{form.u}}_{{form.id}}" tabindex="-1" value="">
+                    </div>
+
+                    <div class="col-md-8">
+                    <input type="submit" value="{{form.button_text}}" name="subscribe" id="mc-embedded-subscribe" class="btn 
+                        {% if section.filled %}
+                            {% if section.cta.filled %}
+                                btn-light
+                            {% else %}
+                                btn-outline-light
+                            {% endif %}
+                        {% else %}
+                            {% if section.cta.filled %}
+                                btn-dark
+                            {% else %}
+                                btn-outline-dark
+                            {% endif %}
+                        {% endif %}
+                    " />
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    {% endif %}
+{% endcapture %}
+
 {% capture image %}
     {% if section.image %}
         <div class="col-md text-center">
@@ -85,7 +144,8 @@
                 {{image}}
             {% endif %}
 
-
         </div>
+
+        {{form}}
     </div>
 </div>
