@@ -24,28 +24,6 @@ parts:
         lastNamePlaceholder: Last Name
         emailPlaceholder: Email
         optinText: I would like to hear about other Story webinars in the future
-  - type: signup
-    content:
-      id: second
-      header: Learning Outcomes
-      filled: true
-      text:
-        - >-
-          1. Develop fluent knowledge, skills and understanding of mathematical
-          methods and concepts.
-        - >-
-          2. Acquire, select and apply mathematical techniques to solve
-          problems.
-        - >-
-          3. Reason mathematically, make deductions and inferences and draw
-          conclusions.
-        - >-
-          4. Comprehend, interpret and communicate mathematical information in a
-          variety of forms appropriate to the information and context.
-      image:
-        alignment: left
-        url: /img/Rocket.svg
-        hoverText: Rocket
   - type: footer
     content:
       id: register
@@ -94,7 +72,7 @@ CENTURY is supported on the latest version of Chrome, Safari, Firefox and Intern
 
 **How do I learn using Century?**
 
-You will be given login details once you have subscribed to Story.&nbsp; When you login, you will be presented with your recommended learner path which will be based on the courses you have selected. CENTURY is totally adaptable, so can be used in whatever way you find the most beneficial. You can find more details about how to use CENTURY by watching the ‘how to’ videos on the platform.
+You will be given login details once you have subscribed to Story.  When you login, you will be presented with your recommended learner path which will be based on the courses you have selected. CENTURY is totally adaptable, so can be used in whatever way you find the most beneficial. You can find more details about how to use CENTURY by watching the ‘how to’ videos on the platform.
 
 **How do I save my work?**
 
@@ -102,7 +80,7 @@ Your progress through a topic will be automatically saved when you click ‘exit
 
 **Where does the content come from?**
 
-CENTURY’s content has been created or curated by teachers and, if they have the relevant permissions, shared on CENTURY’s content management system. CENTURY can host any course. Teachers are also able to upload their own content to the platform.&nbsp;
+CENTURY’s content has been created or curated by teachers and, if they have the relevant permissions, shared on CENTURY’s content management system. CENTURY can host any course. Teachers are also able to upload their own content to the platform.
 
 **Is the content aligned to the national curriculum?**
 
@@ -110,4 +88,4 @@ Absolutely! Our Curriculum Team make sure that CENTURY’s content is aligned wi
 
 **How often should I use the platform?**
 
-There is no minimum or maximum time for which CENTURY should be used.&nbsp; However, the more you use the platform, the more it will understand how you learn, and the more CENTURY will be able to personalise learning for you.
+There is no minimum or maximum time for which CENTURY should be used.  However, the more you use the platform, the more it will understand how you learn, and the more CENTURY will be able to personalise learning for you.
