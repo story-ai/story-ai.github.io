@@ -13,6 +13,10 @@ parts:
         cta:
           text: Sign up
           link: 'https://app.story-ai.com/'
+
+  - type: body
+    content:
+      backgroundImage: /img/bg-01.png
   - type: footer
     content:
       id: register
@@ -33,24 +37,6 @@ parts:
         - text: Back to the top
           link: '#header'
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
-  - type: body
-    content:
-      id:
-      header:
-      filled: false
-      social:
-        - icon:
-          link:
-      signupText:
-      namePlaceholder:
-      emailPlaceholder:
-      button:
-        text:
-        filled: false
-      nav:
-        - text:
-          link:
-      legalFooter:
 ---
 
 **What is Century?**
