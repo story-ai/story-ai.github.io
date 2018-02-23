@@ -89,6 +89,6 @@ parts:
 
 &nbsp;
 
-Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
+Story approaches learning, by enabling the learner to set their own pace and direction. &nbsp;As we all learn differently, we have created a platform that builds a learning pathway for each individual. &nbsp;This unique learning experience is created using AI and Big data technology to analyse, evaluate and adapt how and when you are presented with the learning materials.&nbsp;
 
-Our Physics GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
+<br>CENTURY’S has a team of full time teachers. &nbsp;They design engaging GCSE courses, using their subject knowledge and experience of what actually works for learners. Whilst always aligning course content and learning objectives to the curriculum set out by the Department for Education.
