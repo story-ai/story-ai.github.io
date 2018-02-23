@@ -92,6 +92,6 @@ parts:
 
 &nbsp;
 
-Every user on the Story platform will have a personalised learning experience. &nbsp;Story embraces the uniqueness of how we all learn to improve the effectiveness of your learning. &nbsp;By bringing together a team of experienced teachers and the latest in AI technologies, you study approved courses, with material designed and scheduled for your learning style.
+Every user on the Story platform will have a personalised learning experience. &nbsp;Story embraces the uniqueness of how we all learn to improve the effectiveness of your learning. &nbsp;By bringing together a team of experienced teachers and the latest in AI technologies, you study approved courses, with materials designed and scheduled for your learning style.
 
 Our Biology GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
