@@ -97,4 +97,4 @@ parts:
 
 Unlike other online learning platforms, all of Story’s courses are personalised to match your unique way of learning. The technology tracks your interactions and outcomes to effectively ‘learn how you learn’ - this way we can make sure you’ve always got the right learning materials for your learning style. Afterall, we all learn differently.
 
-Our Chemistry GCSE course is curated by CENTURY’s Curriculum team of professional teachers to ensure content is aligned with the curriculum and that it addresses the skills and knowledge required by the Department for Education.
+<br>A team of experienced, specialist teachers create our engaging GCSE courses. &nbsp;This knowledge enables them to ensure all courses fulfill the criteria set out by the Department of Education.
