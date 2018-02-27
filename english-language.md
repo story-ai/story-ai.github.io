@@ -60,7 +60,7 @@ parts:
         - Reading (Non-fiction)
         - 'Spelling, Pronunciation & Grammar (SPaG)'
       image:
-        alignment: left
+        alignment: right
         url: /img/EnglishLanguage.svg
         hoverText: Notebook
   - type: footer
