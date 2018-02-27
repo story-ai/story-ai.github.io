@@ -11,8 +11,8 @@ parts:
           - text: Login
             link: 'https://app.story-ai.com/'
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: Find out more
+          link: '#register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png
