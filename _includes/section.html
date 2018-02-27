@@ -1,7 +1,21 @@
 {% assign section = include.content %}
 
+{% capture video %}
+
+        <div class="col-md text-center">
+            <iframe
+                    src="{{section.video.url}}" 
+                    class="img-fluid img-device" 
+                    frameborder="0" 
+                    allow="autoplay; encrypted-media" 
+                    allowfullscreen
+                    data-enter="fadein" 
+                    style="transform: translateY(70px); height:100%; width:100%"
+                    ></iframe>
+        </div>
+{% endcapture %}
+
 {% capture image %}
-    {% if section.image %}
         <div class="col-md text-center">
             <img src="{{section.image.url}}"
                     alt="{{section.image.hoverText}}" 
@@ -9,7 +23,6 @@
                     data-enter="fadein" 
                     style="transform: translateY(70px)">
         </div>
-    {% endif %}
 {% endcapture %}
 
 <div class="block block-main-feature"
@@ -22,9 +35,18 @@
     id="{{section.id}}"
 >
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row 
+        {% if section.video %}
+            align-items-stretch
+        {% else %}
+            align-items-center
+        {% endif %}
+        ">
             {% if section.image and section.image.alignment == "left" %} 
                 {{image}}
+            {% endif %}
+            {% if section.video and section.video.alignment == "left" %} 
+                {{video}}
             {% endif %}
             <div class="col">
                 <h2
@@ -60,25 +82,51 @@
                 {% endif %}
 
                 {% if section.cta %}
+
                     <p>
-                        <a href="{{section.cta.link}}" class="btn 
-                            {% if section.filled %}
-                                {% if section.cta.filled %}
-                                    btn-light
+                        {% if section.cta.text %}
+                            {% assign cta = section.cta %}
+
+                            <a href="{{cta.link}}" class="btn 
+                                {% if section.filled %}
+                                    {% if cta.filled %}
+                                        btn-light
+                                    {% else %}
+                                        btn-outline-light
+                                    {% endif %}
                                 {% else %}
-                                    btn-outline-light
+                                    {% if cta.filled %}
+                                        btn-dark
+                                    {% else %}
+                                        btn-outline-dark
+                                    {% endif %}
                                 {% endif %}
-                            {% else %}
-                                {% if section.cta.filled %}
-                                    btn-dark
+                            ">
+                                {{cta.text}}
+                            </a>
+                        {% else %}
+                            {% for cta in section.cta %}
+                            <a href="{{cta.link}}" class="btn 
+                                {% if section.filled %}
+                                    {% if cta.filled %}
+                                        btn-light
+                                    {% else %}
+                                        btn-outline-light
+                                    {% endif %}
                                 {% else %}
-                                    btn-outline-dark
+                                    {% if cta.filled %}
+                                        btn-dark
+                                    {% else %}
+                                        btn-outline-dark
+                                    {% endif %}
                                 {% endif %}
-                            {% endif %}
-                        ">
-                            {{section.cta.text}}
-                        </a>
+                            ">
+                                {{cta.text}}
+                            </a>
+                            {% endfor %}
+                        {% endif %} 
                     </p>
+
                 {% endif %}
                 
             </div>
@@ -86,7 +134,9 @@
             {% if section.image and section.image.alignment == "right" %} 
                 {{image}}
             {% endif %}
-
+            {% if section.video and section.video.alignment == "right" %} 
+                {{video}}
+            {% endif %}
 
         </div>
     </div>

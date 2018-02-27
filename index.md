@@ -11,26 +11,35 @@ parts:
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Get started
-          link: 'https://app.story-ai.com/'
+        - text: Find out more
+          link: '#register'
           filled: false
       image:
       backgroundImage: /img/bg-01.png
       logo: /img/Story-logo.svg
+      url: /home
       nav:
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
+          - text: English Language
+            link: /english-language
+          - text: English Literature
+            link: /english-literature
+          - text: Biology
+            link: /biology
+          - text: Chemistry
+            link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: More info
+          link: '#register'
       sponsors:
         - url:
           img: /img/Century-logo-white.png
           alt: Powered by CENTURY
   - type: features
     content:
-      id: How it Works
+      id: first
       header: How it works
       subtitle:
       content:
@@ -54,9 +63,34 @@ parts:
               you've always got the knowledge at the top of your mind.
   - type: section
     content:
-      id: Learners
-      header: Lifelong Learning
+      id: second
+      header: We're powered by CENTURY
       filled: true
+      text:
+        - >-
+          CENTURY Tech is the core technology that underlies the Story platform
+          (and our sister company). It’s been built by the best engineers,
+          scientists and teachers with one core mission; to improve learning
+          outcomes for all.
+        - >-
+          Students access learning materials on the CENTURY platform and data on
+          their progress, achievement and areas for improvement are made
+          available via an individual dashboard. It uses artificial intelligence
+          (AI) technology, cognitive neuroscience and big data insights to
+          provide students with a personalised learning experience.
+      video:
+        alignment: right
+        url: >-
+          https://www.youtube.com/embed/MKZF39f31po?rel=0&amp;controls=1&amp;showinfo=0
+      nav:
+        - text:
+          link:
+      legalFooter:
+  - type: section
+    content:
+      id: third
+      header: Lifelong Learning
+      filled: false
       text:
         - >-
           We’ve designed Story for every learner; no matter your age, place or
@@ -75,28 +109,40 @@ parts:
         hoverText: Laptop
   - type: section
     content:
-      id: first
-      header: GCSE Maths and English
-      filled: false
+      id: forth
+      header: GCSE English and Science
+      filled: true
       text:
         - >-
-          Our GCSE Maths and English courses have been designed and curated by a
-          team of professional teachers to meet the exact requirements of the UK
-          national curriculum. New courses are currently being built so check
+          Our GCSE English and Science courses have been designed and curated by
+          a team of professional teachers to meet the exact requirements of the
+          UK national curriculum. New courses are currently being built so check
           back soon for the latest subjects.
       image:
         alignment: right
-        url: /img/blackboard.svg
+        url: /img/ereader.svg
         hoverText: Learning Pathway
       cta:
-        text: Get started
-        link: 'https://app.story-ai.com/'
-        filled: true
+        - text: English Language
+          link: /english-language
+          filled: true
+        - text: English Literature
+          link: /english-literature
+          filled: true
+        - text: Biology
+          link: /Biology
+          filled: true
+        - text: Chemistry
+          link: /Chemistry
+          filled: true
+        - text: Physics
+          link: /Physics
+          filled: true
   - type: section
     content:
-      id: second
+      id: fifth
       header: Artificial Intelligence
-      filled: true
+      filled: false
       text:
         - >-
           As you learn, our amazing artificial intelligence (AI) technology will
@@ -109,31 +155,19 @@ parts:
         alignment: left
         url: /img/Rocket.svg
         hoverText: Rocket
-  - type: section
-    content:
-      id: fourth
-      header: Getting started
-      filled: false
-      text:
-        - >-
-          Getting started on Story is free and easy. Simply create an account
-          and then choose a course - some are free and some aren't, but all are
-          personalised to suite your way of learning!
-      cta:
-        text: Start here
-        link: 'https://app.story-ai.com/'
-        filled: false
   - type: footer
     content:
       id: register
-      header: Stay up-to-date
+      header: Coming soon... Sign-up to find out more
       filled: false
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
-      signupText: Subscribe to our newsletter to receive exclusive content.
+      signupText: >-
+        We're putting the finishing touches to our learning environment. Sign up
+        to our emails to keep up to date with our launch
       namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
@@ -142,5 +176,8 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
+        - text: FAQ
+          link: /Faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
+
