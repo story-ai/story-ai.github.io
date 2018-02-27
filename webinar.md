@@ -72,9 +72,9 @@ parts:
 
 &nbsp;
 
-##### Date: XXX
+##### Date: 7th March 2018
 
-##### Time: XXX
+##### Time: 12am (GMT)
 
 &nbsp;
 
