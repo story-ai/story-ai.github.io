@@ -36,14 +36,12 @@ parts:
         - >-
           2. Appreciate the concept of cause and effect in explaining such links
           as those between force and acceleration.
-
-          .
         - >-
           3. Understand the phenomena of ‘action at a distance’ and the related
           concept of the field.
         - >-
           4. Appreciate that differences are the drivers of change, such as
-          between pressures or temperatures or electrical potentials, .
+          between pressures or temperatures or electrical potentials.
         - >-
           5. Understand that proportionality is an important aspect of many
           models in science.
@@ -105,4 +103,4 @@ parts:
 
 Story approaches learning, by enabling the learner to set their own pace and direction. &nbsp;As we all learn differently, we have created a platform that builds a learning pathway for each individual. &nbsp;This unique learning experience is created using AI and Big data technology to analyse, evaluate and adapt how and when you are presented with the learning materials.&nbsp;
 
-<br>CENTURY’S has a team of full time teachers. &nbsp;They design engaging GCSE courses, using their subject knowledge and experience of what actually works for learners. Whilst always aligning course content and learning objectives to the curriculum set out by the Department for Education.
+<br>CENTURY has a team of full time teachers. &nbsp;They design engaging GCSE courses, using their subject knowledge and experience of what actually works for learners. Whilst always aligning course content and learning objectives to the curriculum set out by the Department for Education.
