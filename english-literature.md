@@ -56,10 +56,9 @@ parts:
       text:
         - >-
           Story’s GCSE English Literature courses are completely aligned to the
-          essential subject content, each topic (Reading comprehension and
-          reading critically, Writing) has been broken down into smaller nuggets
-          of learning. We think of these nuggets as bite-sized pieces of
-          learning.
+          essential subject content, each topic (Reading comprehension, Reading
+          critically and Writing) has been broken down into smaller nuggets of
+          learning. We think of these nuggets as bite-sized pieces of learning.
       image:
         alignment: right
         url: /img/EnglishLiterature.svg
@@ -93,8 +92,6 @@ parts:
 ---
 
 #### Our English Literature GCSE courses gives students an opportunity to explore the plot, characters, themes, contexts and ideas within either ‘An Inspector Calls’ or 'Macbeth' (each is a separate course). Focusing on the assessment objectives used in GCSE examinations across exam boards.
-
-&nbsp;
 
 These courses have been created by CENTURY’s team of professional GCSE teachers, following the UK Department of Education curriculum. See below for learning objectives and subject content.
 
