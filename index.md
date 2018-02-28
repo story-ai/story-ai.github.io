@@ -133,13 +133,13 @@ parts:
           link: /english-literature
           filled: true
         - text: Biology
-          link: /Biology
+          link: /biology
           filled: true
         - text: Chemistry
-          link: /Chemistry
+          link: /chemistry
           filled: true
         - text: Physics
-          link: /Physics
+          link: /physics
           filled: true
   - type: section
     content:
