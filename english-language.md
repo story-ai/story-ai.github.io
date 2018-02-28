@@ -56,11 +56,11 @@ parts:
       text:
         - >-
           Story’s GCSE English Literature courses are completely aligned to the
-          essential subject content, each topic (detailed study, reading
-          comprehension and reading critically, writing) has been broken down
-          into smaller nuggets of learning. We think of these nuggets as
-          bite-sized pieces of learning. The following courses are available in
-          this subject area:
+          essential subject content, each topic (Critical reading and
+          comprehension, Writing, and Spoken language) has been broken down into
+          smaller nuggets of learning. We think of these nuggets as bite-sized
+          pieces of learning. The following courses are available in this
+          subject area:
         - Creating Writing
         - Writing
         - 'Language, Structure & Tense'
@@ -100,6 +100,8 @@ parts:
 ---
 
 #### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
+
+&nbsp;
 
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
