@@ -148,7 +148,7 @@ parts:
         - >-
           As you learn, our amazing artificial intelligence (AI) technology will
           learn all about how you learn... It might be that you study better
-          using videos, maybe good and simple text is best for you or perhaps
+          using videos, maybe clear and simple text is best for you or perhaps
           you just need it said in a different way. AI technology will pick up
           on this and make sure that you’ve always got the right type of content
           to help you learn best.
