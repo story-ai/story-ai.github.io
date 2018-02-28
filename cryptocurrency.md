@@ -26,7 +26,10 @@ parts:
           In this course we introduce bitcoin and blockchain; What are they? How
           do they work? What are they good for now and in the future?
         - >-
-          We focus on the most famous cryptocurrency, Bitcoin, however the
+          Specifically, this course covers blockchain, transactions, mining and
+          future applications.
+        - >-
+          We'll explore the most famous cryptocurrency, Bitcoin, however the
           principles we go over in this course can be applied to all other
           cryptocurrencies.
       image:
