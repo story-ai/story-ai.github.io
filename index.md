@@ -20,6 +20,8 @@ parts:
       url: /home
       nav:
         items:
+          - text: Cryptocurrency
+            link: /cryptocurrency
           - text: English Language
             link: /english-language
           - text: English Literature
@@ -30,8 +32,6 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
-          - text: Cryptocurrency
-            link: /cryptocurrency
         cta:
           text: More info
           link: '#register'
