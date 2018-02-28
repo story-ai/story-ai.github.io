@@ -30,6 +30,8 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
+          - text: Cryptocurrency
+            link: /cryptocurrency
         cta:
           text: More info
           link: '#register'
@@ -183,3 +185,4 @@ parts:
           link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
+
