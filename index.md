@@ -36,7 +36,7 @@ parts:
           text: More info
           link: '#register'
       sponsors:
-        - url:
+        - url: 'http://www.century.tech/'
           img: /img/Century-logo-white.png
           alt: Powered by CENTURY
   - type: features
