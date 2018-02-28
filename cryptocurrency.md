@@ -4,7 +4,7 @@ parts:
     content:
       id: header
       title:
-        - Physics GCSE Course
+        - The Beginners Guide to Bitcoin and Blockchain
       logo: /img/Story-logo.svg
       nav:
         items:
@@ -91,10 +91,8 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### Physics is the science of the fundamental concepts of field, force, radiation and particle structures, which are inter-linked to form unified models of the behaviour of the material universe. A GCSE in physics enables students to understand how, through the ideas of physics, the complex and diverse phenomena of the natural world can be described in terms of a small number of key ideas which are of universal application.
+#### The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
 
 &nbsp;
 
-Story approaches learning, by enabling the learner to set their own pace and direction. &nbsp;As we all learn differently, we have created a platform that builds a learning pathway for each individual. &nbsp;This unique learning experience is created using AI and Big data technology to analyse, evaluate and adapt how and when you are presented with the learning materials.&nbsp;
-
-<br>CENTURY’S has a team of full time teachers. &nbsp;They design engaging GCSE courses, using their subject knowledge and experience of what actually works for learners. Whilst always aligning course content and learning objectives to the curriculum set out by the Department for Education.
+Supporters praise the technologies’ potential to disrupt inefficient and costly sectors like finance, in a similar fashion to how the internet disrupted publishing. Whilst opponents criticise the system for facilitating criminal activity and fraudulent schemes. We’re sure of one thing at Story, knowledge is key.
