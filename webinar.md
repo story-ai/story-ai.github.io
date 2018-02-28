@@ -4,7 +4,7 @@ parts:
     content:
       id: header
       title:
-        - "Webinar: A Beginners Guide to Bitcoin and Blockchain"
+        - 'Webinar: A Beginners Guide to Bitcoin and Blockchain'
       logo: /img/Story-logo.svg
       nav:
         items:
@@ -23,7 +23,7 @@ parts:
         firstNamePlaceholder: First Name
         lastNamePlaceholder: Last Name
         emailPlaceholder: Email
-        optinText: I would like to hear about other Story webinars in the future
+        optinText: I would like to hear from Story in the future
   - type: signup
     content:
       id: second
