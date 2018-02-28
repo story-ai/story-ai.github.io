@@ -19,29 +19,16 @@ parts:
   - type: section
     content:
       id: second
-      header: Learning Outcomes
+      header: Subject Content
       filled: true
       text:
         - >-
-          1. Understand use of models, such as the the wave models of light and
-          of sound.
+          In this course we introduce bitcoin and blockchain; What are they? How
+          do they work? What are they good for now and in the future?
         - >-
-          2. Appreciate the concept of cause and effect in explaining such links
-          as those between force and acceleration.
-
-          .
-        - >-
-          3. Understand the phenomena of ‘action at a distance’ and the related
-          concept of the field.
-        - >-
-          4. Appreciate that differences are the drivers of change, such as
-          between pressures or temperatures or electrical potentials, .
-        - >-
-          5. Understand that proportionality is an important aspect of many
-          models in science.
-        - >-
-          6. Appreciate that physical laws and models are expressed in
-          mathematical form.
+          We focus on the most famous cryptocurrency, Bitcoin, however the
+          principles we go over in this course can be applied to all other
+          cryptocurrencies.
       image:
         alignment: left
         url: /img/Learningoutcome.svg
@@ -92,7 +79,5 @@ parts:
 ---
 
 #### The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
-
-&nbsp;
 
 Supporters praise the technologies’ potential to disrupt inefficient and costly sectors like finance, in a similar fashion to how the internet disrupted publishing. Whilst opponents criticise the system for facilitating criminal activity and fraudulent schemes. We’re sure of one thing at Story, knowledge is key.
