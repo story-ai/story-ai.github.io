@@ -53,7 +53,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-**What is CENTURY?**
+**What is CENTURY Tech?**
 
 CENTURY Tech is our sister company and is the core technology that underlies the Story platform. It’s been built by the best engineers, scientists and teachers with one core mission; to improve learning outcomes for all. Students access learning materials on the CENTURY platform and data on their progress, achievement and areas for improvement are made available via an individual dashboard. It uses artificial intelligence (AI) technology, cognitive neuroscience and big data insights to provide students with a personalised learning experience.
 
