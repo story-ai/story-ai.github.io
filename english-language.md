@@ -61,7 +61,7 @@ parts:
           smaller nuggets of learning. We think of these nuggets as bite-sized
           pieces of learning. The following courses are available in this
           subject area:
-        - Creating Writing
+        - Creative Writing
         - Writing
         - 'Language, Structure & Tense'
         - Reading (Fiction)
@@ -79,8 +79,6 @@ parts:
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
-        - icon: youtube
-          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
       signupText: >-
@@ -94,14 +92,10 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
-        - text: FAQ
-          link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
 #### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
-
-&nbsp;
 
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
