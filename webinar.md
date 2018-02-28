@@ -76,7 +76,7 @@ parts:
 
 ##### Date: 7th March 2018
 
-##### Time: 12 noon (GMT)
+##### Time: 12:30 (GMT)
 
 &nbsp;
 
