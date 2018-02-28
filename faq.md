@@ -6,14 +6,22 @@ parts:
       title:
         - FAQ
       logo: /img/Story-logo.svg
+
       nav:
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
+          - text: English Language
+            link: /english-language
+          - text: English Literature
+            link: /english-literature
+          - text: Biology
+            link: /biology
+          - text: Chemistry
+            link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
-
+          text: More info
+          link: '#register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png
@@ -25,6 +33,8 @@ parts:
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
+        - icon: youtube
+          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
       signupText: >-
@@ -38,6 +48,8 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
+        - text: FAQ
+          link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 

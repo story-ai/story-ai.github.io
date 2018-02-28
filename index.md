@@ -164,6 +164,8 @@ parts:
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
+        - icon: youtube
+          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
       signupText: >-
@@ -181,4 +183,3 @@ parts:
           link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
-
