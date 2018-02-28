@@ -70,7 +70,7 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### We’re running an introduction to bitcoin and blockchain webinar, hosted by cryptocurrency experts and Story founders, Priya Lakhani and David Little.
+#### Hosted by cryptocurrency experts and Story founders, Priya Lakhani OBE and David Little.
 
 &nbsp;
 
