@@ -82,8 +82,6 @@ parts:
 
 The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
 
-Supporters praise the technologies’ potential to disrupt inefficient and costly sectors like finance, in a similar fashion to how the internet disrupted publishing. Whilst opponents criticise the system for facilitating criminal activity and fraudulent schemes.
-
-We’re sure of one thing at Story, knowledge is key. Join our webinar on the XXX and learn the basics of blockchain and bitcoin with our own crypto experts (and founders) David Little and Priya Lakhani. We’ll also throw in free access to our brand new course on bitcoin and blockchain so you can hone your skills using the Story learning platform.
+Join our webinar on the March 7th and learn the basics of blockchain and bitcoin with our own crypto experts (and Story founders) David Little and Priya Lakhani OBE. We’ll also throw in free access to our brand new course on bitcoin and blockchain so you can hone your skills using the Story learning platform.
 
 ### Sign up now
