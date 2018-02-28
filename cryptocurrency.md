@@ -26,9 +26,6 @@ parts:
           In this course we introduce bitcoin and blockchain; What are they? How
           do they work? What are they good for now and in the future?
         - >-
-          Specifically, this course covers blockchain, transactions, mining and
-          future applications.
-        - >-
           We'll explore the most famous cryptocurrency, Bitcoin, however the
           principles we go over in this course can be applied to all other
           cryptocurrencies.
@@ -39,16 +36,23 @@ parts:
   - type: section
     content:
       id: second
-      header: Subject Content
+      header: Learning Outcomes
       text:
         - >-
-          Story’s GCSE physics course is completely aligned to the essential
-          subject content as set out by the Department of Education.  Each topic
-          (Energy; Forces; Forces and motion; Waves in matter; Light and
-          electromagnetic waves; Electricity; Magnetism and electromagnetism;
-          Particle model of matter; Atomic structure; Space physics) is
-          presented in the platform as a strand and each sub-topic is broken
-          down further in to a nugget of bite-sized learning.
+          At the end of this course you will have an understanding of the
+          following.
+        - >-
+          Blockchain. This is the technology that underpins all
+          cryptocurrencies.
+        - >-
+          Transactions. Learn how do Bitcoins get sent and received in a secure
+          way without a third party like a bank.
+        - >-
+          Mining. How do Bitcoins get created with a stable and predictable
+          inflation rate? Through a process known as mining.
+        - >-
+          Future Applications. Understand how this technology has potential to
+          change the financial industry beyond recognition.
       image:
         alignment: right
         url: /img/Physics.svg
