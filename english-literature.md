@@ -56,8 +56,8 @@ parts:
       text:
         - >-
           Story’s GCSE English Literature courses are completely aligned to the
-          essential subject content, each topic (reading comprehension and
-          reading critically, writing) has been broken down into smaller nuggets
+          essential subject content, each topic (Reading comprehension and
+          reading critically, Writing) has been broken down into smaller nuggets
           of learning. We think of these nuggets as bite-sized pieces of
           learning.
       image:
