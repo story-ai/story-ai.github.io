@@ -9,6 +9,8 @@ parts:
 
       nav:
         items:
+          - text: Cryptocurrency
+            link: /cryptocurrency
           - text: English Language
             link: /english-language
           - text: English Literature

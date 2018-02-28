@@ -8,11 +8,21 @@ parts:
       logo: /img/Story-logo.svg
       nav:
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
+          - text: Cryptocurrency
+            link: /cryptocurrency
+          - text: English Language
+            link: /english-language
+          - text: English Literature
+            link: /english-literature
+          - text: Biology
+            link: /biology
+          - text: Chemistry
+            link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: More info
+          link: '#register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png

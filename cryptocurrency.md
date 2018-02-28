@@ -8,6 +8,8 @@ parts:
       logo: /img/Story-logo.svg
       nav:
         items:
+          - text: Cryptocurrency
+            link: /cryptocurrency
           - text: English Language
             link: /english-language
           - text: English Literature
