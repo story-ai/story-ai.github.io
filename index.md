@@ -20,6 +20,8 @@ parts:
       url: /home
       nav:
         items:
+          - text: Cryptocurrency
+            link: /cryptocurrency
           - text: English Language
             link: /english-language
           - text: English Literature
@@ -98,8 +100,9 @@ parts:
           diagnostic to understand where you are and then CENTURY’s artificial
           intelligence will tailor your course to suit you.
         - >-
-          Right now we have courses in Cryptocurrency, GCSE Maths and GCSE
-          English, and we will shortly be releasing a full suite of GCSE courses
+          Right now we have courses in Cryptocurrency, GCSE Biology, GCSE
+          Chemistry, GCSE Physcis, GCSE English Language and GCSE English
+          Literature.  We will shortly be releasing a full suite of GCSE courses
           that cover the core subjects. Our roadmap includes Vocational
           qualifications, Soft Skills, Nanodegrees and English as a Foreign
           Language (EFL).
@@ -147,7 +150,7 @@ parts:
         - >-
           As you learn, our amazing artificial intelligence (AI) technology will
           learn all about how you learn... It might be that you study better
-          using videos, maybe good and simple text is best for you or perhaps
+          using videos, maybe clear and simple text is best for you or perhaps
           you just need it said in a different way. AI technology will pick up
           on this and make sure that you’ve always got the right type of content
           to help you learn best.
@@ -163,6 +166,8 @@ parts:
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
+        - icon: youtube
+          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
       signupText: >-
@@ -177,7 +182,7 @@ parts:
         - text: Back to the top
           link: '#header'
         - text: FAQ
-          link: /Faq
+          link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 

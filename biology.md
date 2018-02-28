@@ -8,11 +8,21 @@ parts:
       logo: /img/Story-logo.svg
       nav:
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
+          - text: Cryptocurrency
+            link: /cryptocurrency
+          - text: English Language
+            link: /english-language
+          - text: English Literature
+            link: /english-literature
+          - text: Biology
+            link: /biology
+          - text: Chemistry
+            link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: More info
+          link: '#register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png
@@ -25,12 +35,10 @@ parts:
         - >-
           1. Understand life processes depend on molecules whose structure is
           related to their function.
-        - |-
-          2. Appreciate the fundamental units of living organisms are cells.
-          .
+        - 2. Appreciate the fundamental units of living organisms are cells.
         - >-
           3. Understand living organisms may form populations of single species,
-          communities of many species and ecosystems,
+          communities of many species and ecosystems.
         - >-
           4. Appreciate living organisms are interdependent and show adaptations
           to their environment.
@@ -69,14 +77,18 @@ parts:
   - type: footer
     content:
       id: register
-      header: Stay up-to-date
+      header: Coming soon... Sign-up to find out more
       filled: false
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
+        - icon: youtube
+          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
-      signupText: Subscribe to our newsletter to receive exclusive content.
+      signupText: >-
+        We're putting the finishing touches to our learning environment. Sign up
+        to our emails to keep up to date with our launch
       namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
@@ -85,6 +97,8 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
+        - text: FAQ
+          link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 

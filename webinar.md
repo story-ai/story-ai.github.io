@@ -4,15 +4,26 @@ parts:
     content:
       id: header
       title:
-        - "Webinar: A Beginners Guide to Bitcoin and Blockchain"
+        - 'Webinar: A Beginners Guide to Bitcoin and Blockchain'
       logo: /img/Story-logo.svg
       nav:
+
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
+          - text: Cryptocurrency
+            link: /cryptocurrency
+          - text: English Language
+            link: /english-language
+          - text: English Literature
+            link: /english-literature
+          - text: Biology
+            link: /biology
+          - text: Chemistry
+            link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: More info
+          link: '#register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png
@@ -23,7 +34,7 @@ parts:
         firstNamePlaceholder: First Name
         lastNamePlaceholder: Last Name
         emailPlaceholder: Email
-        optinText: I would like to hear about other Story webinars in the future
+        optinText: I would like to hear from Story in the future
   - type: signup
     content:
       id: second
@@ -49,14 +60,18 @@ parts:
   - type: footer
     content:
       id: register
-      header: Stay up-to-date
+      header: Coming soon... Sign-up to find out more
       filled: false
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
+        - icon: youtube
+          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
-      signupText: Subscribe to our newsletter to receive exclusive content.
+      signupText: >-
+        We're putting the finishing touches to our learning environment. Sign up
+        to our emails to keep up to date with our launch
       namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
@@ -65,23 +80,25 @@ parts:
       nav:
         - text: Back to the top
           link: '#header'
+        - text: FAQ
+          link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### We’re running an introduction to bitcoin and blockchain webinar, hosted by cryptocurrency experts and Story founders, Priya Lakhani and David Little.
+#### Hosted by cryptocurrency experts and Story founders, Priya Lakhani OBE and David Little.
 
 &nbsp;
 
 ##### Date: 7th March 2018
 
-##### Time: 12am (GMT)
+##### Time: 12:30 (GMT)
 
 &nbsp;
 
 The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
 
-Supporters praise the technologies’ potential to disrupt inefficient and costly sectors like finance, in a similar fashion to how the internet disrupted publishing. Whilst opponents criticise the system for facilitating criminal activity and fraudulent schemes.
+Join our webinar on the March 7th and learn the basics of blockchain and bitcoin with our own crypto experts (and Story founders) David Little and Priya Lakhani OBE. We’ll also throw in free access to our brand new course on bitcoin and blockchain so you can hone your skills using the Story learning platform.
 
-We’re sure of one thing at Story, knowledge is key. Join our webinar on the XXX and learn the basics of blockchain and bitcoin with our own crypto experts (and founders) David Little and Priya Lakhani. We’ll also throw in free access to our brand new course on bitcoin and blockchain so you can hone your skills using the Story learning platform.
+&nbsp;
 
 ### Sign up now

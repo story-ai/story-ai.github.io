@@ -8,11 +8,21 @@ parts:
       logo: /img/Story-logo.svg
       nav:
         items:
-          - text: Login
-            link: 'https://app.story-ai.com/'
+          - text: Cryptocurrency
+            link: /cryptocurrency
+          - text: English Language
+            link: /english-language
+          - text: English Literature
+            link: /english-literature
+          - text: Biology
+            link: /biology
+          - text: Chemistry
+            link: /chemistry
+          - text: Physics
+            link: /physics
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/'
+          text: More info
+          link: '#register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png
@@ -48,12 +58,12 @@ parts:
       text:
         - >-
           Story’s GCSE English Literature courses are completely aligned to the
-          essential subject content, each topic (detailed study, reading
-          comprehension and reading critically, writing) has been broken down
-          into smaller nuggets of learning. We think of these nuggets as
-          bite-sized pieces of learning. The following courses are available in
-          this subject area:
-        - Creating Writing
+          essential subject content, each topic (Critical reading and
+          comprehension, Writing, and Spoken language) has been broken down into
+          smaller nuggets of learning. We think of these nuggets as bite-sized
+          pieces of learning. The following courses are available in this
+          subject area:
+        - Creative Writing
         - Writing
         - 'Language, Structure & Tense'
         - Reading (Fiction)
@@ -66,14 +76,16 @@ parts:
   - type: footer
     content:
       id: register
-      header: Stay up-to-date
+      header: Coming soon... Sign-up to find out more
       filled: false
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
-      signupText: Subscribe to our newsletter to receive exclusive content.
+      signupText: >-
+        We're putting the finishing touches to our learning environment. Sign up
+        to our emails to keep up to date with our launch
       namePlaceholder: First Name
       emailPlaceholder: E-mail
       button:
@@ -86,6 +98,8 @@ parts:
 ---
 
 #### Our English Language GCSE courses comprehensively cover the curriculum with individual courses for each of the topic areas. Students can focus in on one topic such as creative writing, or mix and match with topics from the subject area.
+
+&nbsp;
 
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
