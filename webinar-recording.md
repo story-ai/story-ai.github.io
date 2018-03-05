@@ -93,14 +93,6 @@ parts:
 
 ##### 7th March 2018 at 12:30 (GMT)
 
-Fill in your details below to be sent a link of the recorded webinar.
-
-&nbsp;
-
-The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
-
-Watch our webinar and learn the basics of blockchain and bitcoin with our own crypto experts (and Story founders) David Little and Priya Lakhani OBE. We’ll also throw in free access to our brand new course on bitcoin and blockchain so you can hone your skills using the Story learning platform.
-
 &nbsp;
 
 ### To be sent a recording link, fill in your details
