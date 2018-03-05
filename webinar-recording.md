@@ -85,14 +85,6 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### Hosted by cryptocurrency experts and Story founders, Priya Lakhani OBE and David Little.
-
-&nbsp;
-
-##### The webinar recording will be available from the following time
-
-##### 7th March 2018 at 12:30 (GMT)
-
-&nbsp;
+#### &nbsp;
 
 ### To be sent a recording link, fill in your details
