@@ -87,4 +87,4 @@ parts:
 
 #### &nbsp;
 
-### To be sent a recording link, fill in your details
+### Fill in your details here and we'll send you an email with a link to the cryptocurrency webinar recording&nbsp;
