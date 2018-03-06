@@ -57,7 +57,7 @@ parts:
       filled: false
       text:
         - >-
-          Story’s GCSE English Literature courses are completely aligned to the
+          Story’s GCSE English Language courses are completely aligned to the
           essential subject content, each topic (Critical reading and
           comprehension, Writing, and Spoken language) has been broken down into
           smaller nuggets of learning. We think of these nuggets as bite-sized
