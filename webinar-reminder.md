@@ -55,3 +55,7 @@ parts:
 ---
 
 #### Thank you for your interest in our upcoming cryptocurrency webinar! We'll send you an email on Wednesday afternoon with a link to the recorded webinar.
+
+&nbsp;
+
+If a friend has forwarded you our email and you wish to join the webinar, please [click here to sign up](/webinar/).
