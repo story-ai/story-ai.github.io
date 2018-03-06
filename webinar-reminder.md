@@ -4,7 +4,7 @@ parts:
     content:
       id: header
       title:
-        - Physics GCSE Course
+        - 'Webinar: A Beginners Guide to Bitcoin and Blockchain'
       logo: /img/Story-logo.svg
       nav:
         items:
