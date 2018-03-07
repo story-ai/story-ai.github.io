@@ -26,6 +26,16 @@ body {
   margin: 5px;
 }
 
+.my-icon {
+  font-size: 3rem;
+  line-height: 3rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 40px;
+}
+.my-icon:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
 /*
  * 2. Bootstrap overrides and global helpers
  */
