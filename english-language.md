@@ -20,9 +20,10 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
+
         cta:
-          text: More info
-          link: '#register'
+          text: Sign up 
+          link: 'https://app.story-ai.com/register'
   - type: body
     content:
       backgroundImage: /img/bg-01.png
@@ -73,27 +74,27 @@ parts:
         alignment: right
         url: /img/EnglishLanguage.svg
         hoverText: Notebook
+
   - type: footer
     content:
       id: register
-      header: Coming soon... Sign-up to find out more
       filled: false
       social:
         - icon: facebook
           link: 'https://www.facebook.com/storyai/'
+        - icon: youtube
+          link: 'https://youtube.com/channel/UC70eglSwrW5JFQxohm3DkfQ'
         - icon: twitter
           link: 'https://twitter.com/mystoryai'
-      signupText: >-
-        We're putting the finishing touches to our learning environment. Sign up
-        to our emails to keep up to date with our launch
-      namePlaceholder: First Name
-      emailPlaceholder: E-mail
       button:
-        text: Sign up!
+        text: Sign up now
+        link: https://app.story-ai.com/register
         filled: false
       nav:
         - text: Back to the top
           link: '#header'
+        - text: FAQ
+          link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
