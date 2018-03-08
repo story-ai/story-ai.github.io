@@ -1,10 +1,11 @@
 ---
+title: "Story | Webinar: A Beginner's Guide to Bitcoin and Blockchain"
 parts:
   - type: header
     content:
       id: header
       title:
-        - 'Webinar: A Beginners Guide to Bitcoin and Blockchain'
+        - 'Webinar: A Beginner's Guide to Bitcoin and Blockchain'
       logo: /img/Story-logo.svg
       nav:
 

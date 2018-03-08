@@ -1,4 +1,5 @@
 ---
+title: Story | Frequently Asked Questions
 parts:
   - type: header
     content:

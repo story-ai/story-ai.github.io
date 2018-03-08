@@ -1,4 +1,5 @@
 ---
+title: Story
 parts:
   - type: header
     content:

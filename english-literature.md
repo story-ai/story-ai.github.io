@@ -1,4 +1,5 @@
 ---
+title: Story | English Literature GCSE
 parts:
   - type: header
     content:

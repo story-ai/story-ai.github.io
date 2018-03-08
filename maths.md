@@ -1,10 +1,11 @@
 ---
+title: Story | Mathematics GCSE
 parts:
   - type: header
     content:
       id: header
       title:
-        - Maths GCSE Course
+        - Mathematics GCSE Course
       logo: /img/Story-logo.svg
       nav:
         items:

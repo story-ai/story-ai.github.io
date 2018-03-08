@@ -1,4 +1,5 @@
 ---
+title: Story | Privacy Policy
 parts:
   - type: header
     content:
@@ -69,7 +70,6 @@ helps us learn about your browser and operating system.
 Email marketing: With your permission, we may send you emails
 about our store, new products and other updates.
 
-
 #### SECTION 2 - CONSENT
 
 ##### How do you get my consent?
@@ -83,7 +83,6 @@ If we ask for your personal information for a secondary reason, like marketing,
 we will either ask you directly for your expressed consent, or provide you with
 an opportunity to say no.
 
-
 ##### How do I withdraw my consent?
 
 If after you opt-in, you change your mind, you may withdraw your consent for us
@@ -92,12 +91,10 @@ information, at anytime, by contacting us at webmaster@story-ai.com or
 mailing us at: Story AI, CENTURY Tech, 22 Torrington Place, London, WC1E
 7HP, United Kingdom
 
-
 #### SECTION 3 - DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or
 if you violate our Terms of Service.
-
 
 #### SECTION 4 - STRIPE
 
@@ -121,9 +118,7 @@ by our store and its service providers.
 
 For more insight, you may also want to read Stripe’s Terms of Service [here](https://stripe.com/gb/legal).
 
-
 #### SECTION 5 - THIRD-PARTY SERVICES
-
 
 In general, the third-party providers used by us will only collect, use and
 disclose your information to the extent necessary to allow them to perform the
@@ -154,13 +149,11 @@ Once you leave our store’s website or are redirected to a third-party website
 or application, you are no longer governed by this Privacy Policy or our
 website’s Terms of Service.
 
-
 ##### Links
 
 When you click on links on our store, they may direct you away from our site.
 We are not responsible for the privacy practices of other sites and encourage
 you to read their privacy statements.
-
 
 #### SECTION 6 - SECURITY
 
@@ -170,28 +163,25 @@ accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is
 encrypted using secure socket layer technology (SSL) and stored with a AES-256
-encryption.  Although no method of transmission over the Internet or electronic
+encryption. Although no method of transmission over the Internet or electronic
 storage is 100% secure, we follow all PCI-DSS requirements and implement
 additional generally accepted industry standards.
-
 
 ##### COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you can choose if you want to opt-out of cookies or not.
 
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+\_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
 
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+\_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
 
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+\_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
 
 cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
 
-_secure_session_id, unique token, sessional
+\_secure_session_id, unique token, sessional
 
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
-
-
 
 #### SECTION 7 - AGE OF CONSENT
 
@@ -199,7 +189,6 @@ By using this site, you represent that you are at least the age of majority in
 your state or province of residence, or that you are the age of majority in
 your state or province of residence and you have given us your consent to allow
 any of your minor dependents to use this site.
-
 
 #### SECTION 8 - CHANGES TO THIS PRIVACY POLICY
 
@@ -214,7 +203,6 @@ If our store is acquired or merged with another company, your information may
 be transferred to the new owners so that we may continue to sell products to
 you.
 
-
 #### QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information
@@ -226,4 +214,4 @@ at Story AI
 
 [CENTURY Tech, 22 Torrington Place, London, WC1E 7HP, United Kingdom]
 
-----
+---

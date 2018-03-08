@@ -1,4 +1,5 @@
 ---
+title: Story | The Beginners Guide to Bitcoin and Blockchain
 parts:
   - type: header
     content:
