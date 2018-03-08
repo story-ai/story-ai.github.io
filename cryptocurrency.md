@@ -30,6 +30,16 @@ parts:
       backgroundImage: /img/bg-01.png
   - type: section
     content:
+      id: top-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3
+  - type: section
+    content:
       id: second
       header: Subject Content
       filled: true
@@ -73,6 +83,16 @@ parts:
         alignment: right
         url: /img/bitcoin.svg
         hoverText: Bitcoin
+  - type: section
+    content:
+      id: bottom-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3
 
   - type: footer
     content:

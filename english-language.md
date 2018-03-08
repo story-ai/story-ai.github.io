@@ -30,14 +30,26 @@ parts:
       backgroundImage: /img/bg-01.png
   - type: section
     content:
-      id: third
+      id: top-cta
       alignment: center
       filled: false
       inline: top
       cta:
-        text: Start Course
-        large: true
-        link: https://app.story-ai.com/course/2e062de1-9d60-47af-bd0b-264a8c9c268f
+        - text: Creative Writing
+          large: true
+          link: https://app.story-ai.com/course/8d7c2c15-76ee-41e6-9fde-1f63e972a445
+        - text: Reading (Non-fiction)
+          large: true
+          link: https://app.story-ai.com/course/06fc1556-a19f-4cc0-9b34-75f284f1b8ed
+        - text: Reading (Fiction)
+          large: true
+          link: https://app.story-ai.com/course/62545876-ca30-4686-8198-bd7db385058a
+        - text: Writing
+          large: true
+          link: https://app.story-ai.com/course/35c04492-91d5-4f6f-9461-3f72a27330b0
+        - text: Language, Structure and Tense
+          large: true
+          link: https://app.story-ai.com/course/3dea2aa5-6ea0-489e-9a8e-94bb3b83e45c
   - type: section
     content:
       id: second
@@ -87,14 +99,26 @@ parts:
         hoverText: Notebook
   - type: section
     content:
-      id: third
+      id: bottom-cta
       alignment: center
       filled: false
       inline: top
       cta:
-        text: Start Course
-        large: true
-        link: https://app.story-ai.com/course/2e062de1-9d60-47af-bd0b-264a8c9c268f
+        - text: Creative Writing
+          large: true
+          link: https://app.story-ai.com/course/8d7c2c15-76ee-41e6-9fde-1f63e972a445
+        - text: Reading (Non-fiction)
+          large: true
+          link: https://app.story-ai.com/course/06fc1556-a19f-4cc0-9b34-75f284f1b8ed
+        - text: Reading (Fiction)
+          large: true
+          link: https://app.story-ai.com/course/62545876-ca30-4686-8198-bd7db385058a
+        - text: Writing
+          large: true
+          link: https://app.story-ai.com/course/35c04492-91d5-4f6f-9461-3f72a27330b0
+        - text: Language, Structure and Tense
+          large: true
+          link: https://app.story-ai.com/course/3dea2aa5-6ea0-489e-9a8e-94bb3b83e45c
   - type: footer
     content:
       id: register

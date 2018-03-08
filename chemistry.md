@@ -30,6 +30,17 @@ parts:
       backgroundImage: /img/bg-01.png
   - type: section
     content:
+      id: top-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/65052214-1317-440d-ab66-3bde238c5fa7
+
+  - type: section
+    content:
       id: second
       header: Learning Outcomes
       filled: true
@@ -81,6 +92,16 @@ parts:
         alignment: right
         url: /img/chemistry.svg
         hoverText: Chemistry
+  - type: section
+    content:
+      id: bottom-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/65052214-1317-440d-ab66-3bde238c5fa7
 
   - type: footer
     content:

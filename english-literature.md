@@ -29,6 +29,16 @@ parts:
       backgroundImage: /img/bg-01.png
   - type: section
     content:
+      id: top-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: An Inspector Calls
+        large: true
+        link: https://app.story-ai.com/course/1d0e92e1-8949-44e3-a5dc-06348f859e5e
+  - type: section
+    content:
       id: second
       header: Learning Outcomes
       filled: true
@@ -66,6 +76,16 @@ parts:
         alignment: right
         url: /img/EnglishLiterature.svg
         hoverText: Theatre
+  - type: section
+    content:
+      id: bottom-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: An Inspector Calls
+        large: true
+        link: https://app.story-ai.com/course/1d0e92e1-8949-44e3-a5dc-06348f859e5e
 
   - type: footer
     content:

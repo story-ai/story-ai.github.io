@@ -30,6 +30,16 @@ parts:
       backgroundImage: /img/bg-01.png
   - type: section
     content:
+      id: top-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/b2125967-4f5f-4628-bbfa-12183bd055e5
+  - type: section
+    content:
       id: second
       header: Learning Outcomes
       filled: true
@@ -73,6 +83,17 @@ parts:
         alignment: right
         url: /img/Physics.svg
         hoverText: Magnet
+
+  - type: section
+    content:
+      id: bottom-cta
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/b2125967-4f5f-4628-bbfa-12183bd055e5
 
   - type: footer
     content:

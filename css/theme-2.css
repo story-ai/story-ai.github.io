@@ -22,7 +22,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
-.btn-light {
+
+.btn {
   margin: 5px;
 }
 

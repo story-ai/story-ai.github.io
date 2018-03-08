@@ -115,6 +115,7 @@
                         {% else %}
                             {% for cta in section.cta %}
                             <a href="{{cta.link}}" class="btn 
+                                {% if cta.large %}btn-lg{% endif %}
                                 {% if section.filled %}
                                     {% if cta.filled %}
                                         btn-light
