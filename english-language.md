@@ -29,6 +29,16 @@ parts:
       backgroundImage: /img/bg-01.png
   - type: section
     content:
+      id: third
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/2e062de1-9d60-47af-bd0b-264a8c9c268f
+  - type: section
+    content:
       id: second
       header: Learning Outcomes
       filled: true
@@ -74,7 +84,16 @@ parts:
         alignment: right
         url: /img/EnglishLanguage.svg
         hoverText: Notebook
-
+  - type: section
+    content:
+      id: third
+      alignment: center
+      filled: false
+      inline: top
+      cta:
+        text: Start Course
+        large: true
+        link: https://app.story-ai.com/course/2e062de1-9d60-47af-bd0b-264a8c9c268f
   - type: footer
     content:
       id: register
