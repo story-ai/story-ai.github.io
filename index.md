@@ -33,11 +33,9 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
-          - text: Log in
-            link: 'https://app.story-ai.com/login'
         cta:
-          text: Sign up
-          link: 'https://app.story-ai.com/register'
+          text: Log in
+          link: 'https://app.story-ai.com/login'
       sponsors:
         - url: 'http://www.century.tech/'
           img: /img/Century-logo-white.png
