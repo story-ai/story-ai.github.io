@@ -12,8 +12,8 @@ parts:
         you learn. Story courses are uniquely created to match your learning
         style.
       buttons:
-        - text: Find out more
-          link: '#register'
+        - text: Sign up here
+          link: 'https://app.story-ai.com/register'
           filled: false
       image:
       backgroundImage: /img/bg-01.png
@@ -33,9 +33,8 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
-
         cta:
-          text: Sign up 
+          text: Sign up
           link: 'https://app.story-ai.com/register'
       sponsors:
         - url: 'http://www.century.tech/'
@@ -173,7 +172,7 @@ parts:
           link: 'https://twitter.com/mystoryai'
       button:
         text: Sign up now
-        link: https://app.story-ai.com/register
+        link: 'https://app.story-ai.com/register'
         filled: false
       nav:
         - text: Back to the top
@@ -182,3 +181,4 @@ parts:
           link: /faq
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
+
