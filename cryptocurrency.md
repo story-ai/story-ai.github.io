@@ -117,8 +117,8 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
+#### In this course we introduce bitcoin and blockchain; What are they? How do they work? What are they good for now and in the future? Starting off with the basics and drilling into more detail as we go on, this course is a comprehensive introduction to cryptocurrencies and the technology that underpins them.
 
 &nbsp;
 
-Supporters praise the technologies’ potential to disrupt inefficient and costly sectors like finance, in a similar fashion to how the internet disrupted publishing. Whilst opponents criticise the system for facilitating criminal activity and fraudulent schemes. We’re sure of one thing at Story, knowledge is key.
+The course focuses on the most famous cryptocurrency, Bitcoin, however the principles ans technologies that we cover can be applied to all other cryptocurrencies.
