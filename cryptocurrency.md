@@ -121,4 +121,4 @@ parts:
 
 &nbsp;
 
-The course focuses on the most famous cryptocurrency, Bitcoin, however the principles ans technologies that we cover can be applied to all other cryptocurrencies.
+The course focuses on the most famous cryptocurrency, Bitcoin, however the principles ans technologies that we cover can be applied to all other cryptocurrencies. If you want to know more about cryptocurrencies, this is the place to start. Start the course today by clicking the button below.
