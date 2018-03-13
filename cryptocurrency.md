@@ -56,8 +56,8 @@ parts:
           cryptocurrencies.
       image:
         alignment: left
-        url: /img/Learningoutcome.svg
-        hoverText: Desk
+        url: /img/coin.png
+        hoverText: Bitcoin
   - type: section
     content:
       id: second
