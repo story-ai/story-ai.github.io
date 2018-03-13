@@ -26,15 +26,13 @@ parts:
           link: 'https://app.story-ai.com/register'
   - type: body
     content:
-      alignment: center
-      inline: bottom
       backgroundImage: /img/bg-01.png
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: both
+      inline: top
       cta:
         text: Start Course
         large: true
@@ -58,7 +56,7 @@ parts:
           cryptocurrencies.
       image:
         alignment: left
-        url: /img/coin.png
+        url: /img/learningoutcome.svg
         hoverText: Desk
   - type: section
     content:
@@ -82,15 +80,14 @@ parts:
           change the financial industry beyond recognition.
       image:
         alignment: right
-        url: /img/bitcoin.svg
+        url: /img/coin.png
         hoverText: Bitcoin
-        inline: bottom
   - type: section
     content:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: both
+      inline: top
       cta:
         text: Start The Course Here
         large: true
