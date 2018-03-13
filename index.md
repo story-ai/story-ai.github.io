@@ -5,8 +5,8 @@ parts:
     content:
       id: header
       title:
-        - Cutting Edge Learning Technology
-        - To help you learn more effectively
+        - Cutting Edge Technology
+        - Learn More Effectively
       subtitle: >-
         Study more effectively with advanced learning technology that learns how
         you learn. Story courses are uniquely created to match your learning
