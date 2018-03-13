@@ -28,12 +28,14 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
+      inline: bottom
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true
@@ -73,6 +75,7 @@ parts:
     content:
       id: second
       header: Subject Content
+      inline: bottom
       text:
         - >-
           Story’s GCSE biology course is completely aligned to the essential
@@ -92,7 +95,7 @@ parts:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true

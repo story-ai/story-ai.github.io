@@ -29,6 +29,7 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
       form:
         u: 2db8dc8668056c8bb3cf91afb
         id: be8c131363

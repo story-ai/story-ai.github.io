@@ -27,12 +27,14 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
+      inline: bottom
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: An Inspector Calls
         large: true
@@ -76,12 +78,13 @@ parts:
         alignment: right
         url: /img/EnglishLiterature.svg
         hoverText: Theatre
+      inline: bottom
   - type: section
     content:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: An Inspector Calls
         large: true

@@ -27,13 +27,15 @@ parts:
           link: 'https://app.story-ai.com/register'
   - type: body
     content:
+      alignment: center
+      inline: bottom
       backgroundImage: /img/bg-01.png
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true
@@ -83,12 +85,13 @@ parts:
         alignment: right
         url: /img/bitcoin.svg
         hoverText: Bitcoin
+        inline: bottom
   - type: section
     content:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true

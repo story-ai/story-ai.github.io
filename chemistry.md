@@ -28,12 +28,14 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
+      inline: bottom
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true
@@ -78,6 +80,7 @@ parts:
     content:
       id: second
       header: Subject Content
+      inline: bottom
       text:
         - >-
           This course follows the UK’s Department of Education specification for
@@ -97,7 +100,7 @@ parts:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true
