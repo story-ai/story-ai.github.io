@@ -21,9 +21,8 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
-
         cta:
-          text: Sign up 
+          text: Sign up
           link: 'https://app.story-ai.com/register'
   - type: body
     content:
@@ -37,7 +36,7 @@ parts:
       cta:
         text: Start Course
         large: true
-        link: https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3
+        link: 'https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3'
   - type: section
     content:
       id: second
@@ -90,10 +89,9 @@ parts:
       filled: false
       inline: top
       cta:
-        text: Start Course
+        text: Start The Course Here
         large: true
-        link: https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3
-
+        link: 'https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3'
   - type: footer
     content:
       id: register
@@ -107,7 +105,7 @@ parts:
           link: 'https://twitter.com/mystoryai'
       button:
         text: Sign up now
-        link: https://app.story-ai.com/register
+        link: 'https://app.story-ai.com/register'
         filled: false
       nav:
         - text: Back to the top
