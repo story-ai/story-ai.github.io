@@ -28,6 +28,7 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
   - type: section
     content:
       id: second

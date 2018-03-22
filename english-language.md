@@ -28,12 +28,14 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
+      inline: bottom
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         - text: Creative Writing
           large: true
@@ -97,12 +99,13 @@ parts:
         alignment: right
         url: /img/EnglishLanguage.svg
         hoverText: Notebook
+      inline: bottom
   - type: section
     content:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         - text: Creative Writing
           large: true
@@ -149,3 +152,7 @@ parts:
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
 And like all courses on Story, our powerful software will tailor the content around your learning style. At the beginning of the course, you’ll take a quick diagnostic test to determine your current level and then throughout the course you’ll be given the opportunity to test your skills with questions and quizzes, each strengthening your knowledge and understanding.
+
+&nbsp;
+
+#### Click on any of the courses below to get started.

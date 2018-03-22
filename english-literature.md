@@ -27,12 +27,14 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
+      inline: bottom
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: An Inspector Calls
         large: true
@@ -76,12 +78,13 @@ parts:
         alignment: right
         url: /img/EnglishLiterature.svg
         hoverText: Theatre
+      inline: bottom
   - type: section
     content:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: An Inspector Calls
         large: true
@@ -117,3 +120,7 @@ parts:
 These courses have been created by CENTURY’s team of professional GCSE teachers, following the UK Department of Education curriculum. See below for learning objectives and subject content.
 
 As always, Story’s big data and artificial intelligence software will be running in the background as you progress through your course to make sure you always have the most helpful learning materials at your fingertips. We all learn in a different way, so the system ‘learns how you learn’, allowing it to pick the best materials to match your unique style.
+
+&nbsp;
+
+#### Click on the below course to get started

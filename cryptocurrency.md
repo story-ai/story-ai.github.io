@@ -21,9 +21,8 @@ parts:
             link: /chemistry
           - text: Physics
             link: /physics
-
         cta:
-          text: Sign up 
+          text: Sign up
           link: 'https://app.story-ai.com/register'
   - type: body
     content:
@@ -37,7 +36,7 @@ parts:
       cta:
         text: Start Course
         large: true
-        link: https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3
+        link: 'https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3'
   - type: section
     content:
       id: second
@@ -57,8 +56,8 @@ parts:
           cryptocurrencies.
       image:
         alignment: left
-        url: /img/Learningoutcome.svg
-        hoverText: Desk
+        url: /img/coin.png
+        hoverText: Bitcoin
   - type: section
     content:
       id: second
@@ -81,7 +80,7 @@ parts:
           change the financial industry beyond recognition.
       image:
         alignment: right
-        url: /img/bitcoin.svg
+        url: /img/coin.png
         hoverText: Bitcoin
   - type: section
     content:
@@ -90,10 +89,9 @@ parts:
       filled: false
       inline: top
       cta:
-        text: Start Course
+        text: Start The Course Here
         large: true
-        link: https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3
-
+        link: 'https://app.story-ai.com/course/57c1cdd0-479b-4721-873f-27b6c2b2bdc3'
   - type: footer
     content:
       id: register
@@ -107,7 +105,7 @@ parts:
           link: 'https://twitter.com/mystoryai'
       button:
         text: Sign up now
-        link: https://app.story-ai.com/register
+        link: 'https://app.story-ai.com/register'
         filled: false
       nav:
         - text: Back to the top
@@ -117,6 +115,8 @@ parts:
       legalFooter: Copyright © 2018 Story. All Rights Reserved.
 ---
 
-#### The current buzz surrounding Bitcoin, Ethereum and the other (thousands of) cryptocurrencies is undeniable. We’ve seen and heard words like blockchain and bitcoin used a lot in the media over the last few months, but there is still a real lack of understanding on the subject.
+#### In this course we introduce bitcoin and blockchain; What are they? How do they work? What are they good for now and in the future? Starting off with the basics and drilling into more detail as we go on, this course is a comprehensive introduction to cryptocurrencies and the technology that underpins them.
 
-Supporters praise the technologies’ potential to disrupt inefficient and costly sectors like finance, in a similar fashion to how the internet disrupted publishing. Whilst opponents criticise the system for facilitating criminal activity and fraudulent schemes. We’re sure of one thing at Story, knowledge is key.
+&nbsp;
+
+The course focuses on the most famous cryptocurrency, Bitcoin, however the principles ans technologies that we cover can be applied to all other cryptocurrencies. If you want to know more about cryptocurrencies, this is the place to start. Start the course today by clicking the button below.

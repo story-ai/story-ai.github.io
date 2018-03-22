@@ -28,12 +28,14 @@ parts:
   - type: body
     content:
       backgroundImage: /img/bg-01.png
+      alignment: center
+      inline: bottom
   - type: section
     content:
       id: top-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true
@@ -83,13 +85,14 @@ parts:
         alignment: right
         url: /img/Physics.svg
         hoverText: Magnet
+      inline: bottom
 
   - type: section
     content:
       id: bottom-cta
       alignment: center
       filled: false
-      inline: top
+      inline: both
       cta:
         text: Start Course
         large: true

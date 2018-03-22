@@ -80,15 +80,24 @@
 {% endcapture %}
 
 <div class="block block-main-feature"
-    {% if section.filled %}
     style="
+    {% if section.filled %}
         background-image: linear-gradient(to bottom right, #5534ff 0%, #0c7aee 48%, #69ffab 100%);
         color: rgba(255,255,255,.6);
-    "
     {% endif %}
+
+    
+    {% if section.inline == "top" or section.inline == "both" %}
+        padding-top: 0;
+    {% endif %}
+    {% if section.inline == "bottom" or section.inline == "both" %}
+        padding-bottom: 0;
+    {% endif %}
+    "
     id="{{section.id}}"
 >
-    <div class="container">
+
+    <div class="container text-{{section.alignment}}">
         <div class="row align-items-center">
             {% if section.image and section.image.alignment == "left" %} 
                 {{image}}
