@@ -152,3 +152,5 @@ parts:
 Created by professional teachers who have a deep understanding of the subject and curriculum, this course has been designed to get you as exam ready as possible.
 
 And like all courses on Story, our powerful software will tailor the content around your learning style. At the beginning of the course, you’ll take a quick diagnostic test to determine your current level and then throughout the course you’ll be given the opportunity to test your skills with questions and quizzes, each strengthening your knowledge and understanding.
+
+#### Click on any of the courses below to get started.
