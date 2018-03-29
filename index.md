@@ -102,7 +102,7 @@ parts:
           intelligence will tailor your course to suit you.
         - >-
           Right now we have courses in Cryptocurrency, GCSE Biology, GCSE
-          Chemistry, GCSE Physcis, GCSE English Language and GCSE English
+          Chemistry, GCSE Physics, GCSE English Language and GCSE English
           Literature.  We will shortly be releasing a full suite of GCSE courses
           that cover the core subjects. Our roadmap includes Vocational
           qualifications, Soft Skills, Nanodegrees and English as a Foreign
